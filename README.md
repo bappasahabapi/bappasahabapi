@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 - 🟢🟢🟢 𝐇𝐓𝐌𝐋 & 𝐂𝐒𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓:
--         🟢 pouranic-batch-name:https://batch-pouranic.netlify.app/
+-         🟢 pouranic-batch-name:   https://batch-pouranic.netlify.app/
 
 <!---
 bappabappa/bappabappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
