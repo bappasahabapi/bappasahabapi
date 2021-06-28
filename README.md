@@ -5,7 +5,8 @@
  
 - 👀 I’m interested in web exploring and love to making code in JavaScript
 - 🌱 I’m currently learning React js
-- 📫 How to reach me **bappasaha161@gmail.com**
+- 📫 Email address: **bappasaha161@gmail.com**
+-  📫 Contact me: **01303246040**
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 -  🤝 🆁🅴🅰🅲🆃 🅹🆂:
 -  Bappa-TO-DO-LIst:https://react-bappa-app.netlify.app/
