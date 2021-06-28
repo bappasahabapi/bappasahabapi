@@ -6,7 +6,8 @@
 - 👀 I’m interested in web exploring and love to making code in JavaScript
 - 🌱 I’m currently learning React js
 - 📫🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
-- Email:**bappasaha161@gamil.com**
+- 📧Email:**bappasaha161@gamil.com**
+- Facebook:**https://www.facebook.com/profile.php?id=100002688295492**
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 -  🤝 🆁🅴🅰🅲🆃 🅹🆂:
 -  Bappa-TO-DO-LIst:https://react-bappa-app.netlify.app/
