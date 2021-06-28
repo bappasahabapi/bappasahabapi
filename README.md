@@ -1,8 +1,9 @@
 - <h1 align="center">Hi 👋, I'm Bappa Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-- 🌱 I’m interested in web exploring and love to making code in JavaScript **and React js**
-
+ 
+- 👋 Hi, I’m @bappabappa
+- 👀 I’m interested in web exploring and love to making code in JavaScript
+- 🌱 I’m currently learning React js
 - 📫 How to reach me **bappasaha161@gmail.com**
 
 
@@ -14,10 +15,7 @@
 - 
 - 
 - 
-- 
-- 👋 Hi, I’m @bappabappa
-- 👀 I’m interested in web exploring and love to making code in JavaScript
-- 🌱 I’m currently learning React js
+-
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
