@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Bappa Saha 😁</h1>
-- <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
+- <h3 align="center">✔ A passionate frontend developer from Bangladesh 🇧🇩</h3>
 - <p  align="center" > Me an eccedentesiast boy!!! don't like to introduce myself</p>
 - <p  align="center" > and never prove to be good enough for everyone </p>
 - <p  align="center" > But I'm the best for them who understand me. </p> 
@@ -8,8 +8,9 @@
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 -  🤝 🆁🅴🅰🅲🆃 🅹🆂:
 -  Bappa-TO-DO-LIst:https://react-bappa-app.netlify.app/
--  Counter:
--  Netflex-App:
+-  google-keep-clone:
+-  facebook-clone:
+-  Netflex-clone:
 -  🤝🅷🆃🅼🅻 & 🅲🆂🆂:
 - Batch-pouranic-Name:  [https://batch-pouranic.netlify.app/](https://batch-pouranic.netlify.app/)
 - HTML LAYOUT:https://basic-html-layout-by-bappa.netlify.app/
