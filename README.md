@@ -23,7 +23,7 @@
 -  পৌরাণিক: https://bappabappa.github.io/ProjectBS4PouranicSite/#share-head-section
 -  GOGA-BAPPA: https://bappabappa.github.io/ProjectBS4gnoomSite/index.html. <br/>
 - 📫🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
-- 📧𝐞𝐦𝐚𝐢𝐥:**bappasaha161@gamil.com**
+- 𝐞𝐦𝐚𝐢𝐥:**bappasaha161@gamil.com**
 - 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:**https://www.facebook.com/profile.php?id=100002688295492**
 - 𝐲𝐨𝐮𝐭𝐮𝐛𝐞:**https://youtu.be/O8_jtE6_Hno**
 - 𝐥𝐢𝐧𝐤𝐞𝐝 𝐢𝐧:** https://www.linkedin.com/in/bappa-saha-30185b175/**
