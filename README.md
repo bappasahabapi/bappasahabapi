@@ -1,8 +1,8 @@
 - <h1 align="center">Hi 👋, I'm Bappa Saha</h1>
 - <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 - <p  align="center" > Me an eccedentesiast boy!!! don't like to introduce myself</p>
-- <h5  align="center" > and never prove to be good enough for everyone </h5>
-- <h5  align="center" > But I'm the best for them who understand me. </h5> 
+- <p  align="center" > and never prove to be good enough for everyone </p>
+- <p  align="center" > But I'm the best for them who understand me. </p> 
 - 👀 I’m interested in web exploring and love to making code in JavaScript
 - 🌱 I’m currently learning React js
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
