@@ -28,7 +28,7 @@
 - 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:**https://www.facebook.com/profile.php?id=100002688295492**
 - 𝐲𝐨𝐮𝐭𝐮𝐛𝐞:**https://youtu.be/O8_jtE6_Hno**
 - 𝐥𝐢𝐧𝐤𝐞𝐝 𝐢𝐧: **https://www.linkedin.com/in/bappa-saha-30185b175/**
-- Blogs:
+-🅱🅻🅾🅶🆂:
 - Learn CSS Flexbox in an interesting way! **https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9**
 - Important things CSS (block, inline-block element, position, property, grid vs flexbox): **https://www.linkedin.com/pulse/block-inline-block-element-position-property-grid-vs-jisan-mia/ **
 - HTML5 Semantic tags, audio, video, table, form:**https://www.linkedin.com/pulse/day-7-html5-semantic-tags-audio-video-table-form-jisan-mia/**
