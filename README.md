@@ -4,7 +4,7 @@
 - <p  align="center" > and never prove to be good enough for everyone </p>
 - <p  align="center" > But I'm the best for them who understand me. </p> 
 - 👀 I’m interested in web frameworks and love to make code in JavaScript😁
-- 🌱 I’m currently learning React js
+- 🌱🔺🔹🔻 I’m currently learning React js
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 -  🟩🟩🟩🤝 🆁🅴🅰🅲🆃 🅹🆂:
 -  Bappa-TO-DO-LIst:https://react-bappa-app.netlify.app/
