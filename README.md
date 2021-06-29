@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Bappa Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center">me an eccedentesiast boy!!! don't like to introduce
+<p align="center">me an eccedentesiast boy!!! don't like to introduce <br/>
 myself and never prove to be good enough for
 everyone but i'm the best for them who understand
 me. </p> 
