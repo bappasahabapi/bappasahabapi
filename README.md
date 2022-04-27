@@ -1,11 +1,13 @@
 ![Github Banner](bappa2.png)
 
-- <h1 align="center">Hi 👋, I'm Bappa Saha 😁</h1>
-- <h3 align="center">✔ A passionate frontend developer from Bangladesh 🇧🇩</h3>
-- <p  align="center" > Me an eccedentesiast boy!!! don't like to introduce myself</p>
-- <p  align="center" > and never prove to be good enough for everyone </p>
-- <p  align="center" > But I'm the best for them who understand me. </p> 
-- 👀 I’m interested in web frameworks and love to make code in JavaScript😁
+## Hi 👋, I'm Bappa Saha 😁
+
+A passionate frontend developer from Bangladesh <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). I Spend most of time coding outstanding projects or recording tutorials.
+
+In a short,
+
+Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
+👀 I’m interested in web frameworks and love to make code in JavaScript😁
 
  📜 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
