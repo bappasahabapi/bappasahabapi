@@ -1,11 +1,9 @@
 ![Github Banner](bappa2.png)
 
-## Hi 👋, I'm Bappa Saha 😁
+## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
 
-A passionate frontend developer from Bangladesh <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). I Spend most of time coding outstanding projects or recording tutorials.
-
-In a short,
-
+#### A passionate frontend developer from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). I Spend most of time coding outstanding projects or recording tutorials.
+_In a short,_
 Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
 👀 I’m interested in web frameworks and love to make code in JavaScript😁
 
@@ -15,21 +13,20 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🌱🔺🔹🔻 I’m currently learning React js.
 
+ 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 
+### My Latest Projects:
 
+[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)
 
+[1. BD-Tour]( https://bd-tour-7c15d.web.app/)
 
+[2. iPhone-Bd:](https://iphone-bd.web.app/)
 
+[3. Thakurgaon-Hospital:](https://thakurgaon-hospital.web.app/)
 
-
-
-- 🌱🔺🔹🔻 I’m currently learning React js
--  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
--  🟩🟩🟩🤝  🆁🅴🅰🅲🆃 🅹🆂:
--  BD-Tour:https://bd-tour-7c15d.web.app/
--  iPhone-Bd:https://iphone-bd.web.app/
--  Thakurgaon-Hospital:https://thakurgaon-hospital.web.app/
 -  🟩🟩🟩🤝🅷🆃🅼🅻 & 🅲🆂🆂:
 - Batch-pouranic-Name:  [https://batch-pouranic.netlify.app/](https://batch-pouranic.netlify.app/)
 - HTML LAYOUT:https://basic-html-layout-by-bappa.netlify.app/
