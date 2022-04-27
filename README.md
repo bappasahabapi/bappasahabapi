@@ -4,6 +4,22 @@
 - <p  align="center" > and never prove to be good enough for everyone </p>
 - <p  align="center" > But I'm the best for them who understand me. </p> 
 - 👀 I’m interested in web frameworks and love to make code in JavaScript😁
+
+ 📜 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bappasahabapii) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ov5eTtZuQLI) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bappasaha/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bappasahabapi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bappasaha161@gmail.com)
+
+:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+
+
+
+
+
+
+
+
+
 - 🌱🔺🔹🔻 I’m currently learning React js
 -  🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
 -  🟩🟩🟩🤝  🆁🅴🅰🅲🆃 🅹🆂:
@@ -20,11 +36,7 @@
 -   portfolio cuda:https://portfolio-bappa.netlify.app/
 -  পৌরাণিক: https://bappabappa.github.io/ProjectBS4PouranicSite/#share-head-section
 -  GOGA-BAPPA: https://bappabappa.github.io/ProjectBS4gnoomSite/index.html. <br/>
-- 📫🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
-- 𝐞𝐦𝐚𝐢𝐥:**bappasaha161@gamil.com**
-- 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:**https://www.facebook.com/profile.php?id=100002688295492**
-- 𝐲𝐨𝐮𝐭𝐮𝐛𝐞:**https://youtu.be/O8_jtE6_Hno**
-- 𝐥𝐢𝐧𝐤𝐞𝐝 𝐢𝐧: **https://www.linkedin.com/in/bappa-saha-30185b175/**
+
 -🅱🅻🅾🅶🆂:
 - Learn CSS Flexbox in an interesting way! **https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9**
 - Important things CSS (block, inline-block element, position, property, grid vs flexbox): **https://www.linkedin.com/pulse/block-inline-block-element-position-property-grid-vs-jisan-mia/ **
