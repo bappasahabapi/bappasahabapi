@@ -15,17 +15,23 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🌱🔺🔹🔻 I’m currently learning React js.
 
- 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🅾🅹🅴🅲🆃 🅻🅸🅽🅺:
+ 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅿🆁🅾🅹🅴🅲🆃🆂 🅻🅸🅽🅺:
 
 ### My Latest Projects:
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)
+[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
 [1. BD-Tour]( https://bd-tour-7c15d.web.app/)
 
 [2. iPhone-Bd:](https://iphone-bd.web.app/)
 
 [3. Thakurgaon-Hospital:](https://thakurgaon-hospital.web.app/)
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂
+
+[1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
+
+[2. Bappa-blog site](https://bappablog.netlify.app/)
 
 -  🟩🟩🟩🤝🅷🆃🅼🅻 & 🅲🆂🆂:
 - Batch-pouranic-Name:  [https://batch-pouranic.netlify.app/](https://batch-pouranic.netlify.app/)
