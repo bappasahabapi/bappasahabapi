@@ -32,17 +32,24 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 [1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
 
 [2. Bappa-blog site](https://bappablog.netlify.app/)
+ 
+ 
+ <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
+
+[1. Honda-Shop](https://honda-cbr-bootstarp-assignment.netlify.app/)
+
+[2. GOGA-BAPPA](https://bappabappa.github.io/ProjectBS4gnoomSite/index.html)
+
+[3. CSE-পৌরাণিক](https://bappabappa.github.io/ProjectBS4PouranicSite/share-head-section)
+
+[4. portfolio cuda](https://portfolio-bappa.netlify.app/)
 
 -  🟩🟩🟩🤝🅷🆃🅼🅻 & 🅲🆂🆂:
 - Batch-pouranic-Name:  [https://batch-pouranic.netlify.app/](https://batch-pouranic.netlify.app/)
 - HTML LAYOUT:https://basic-html-layout-by-bappa.netlify.app/
 - ProjectCSSNavbarMostWanted: https://bappabappa.github.io/ProjectCSSNavbarMostWanted/
-- 🟩🟩🟩 🤝🅙🅐🅥🅐🅢🅒🅡🅘🅟🅣 🅟🅡🅞🅙🅔🅒🅣: 
--  Bappa-blog site:https://bappablog.netlify.app/
--  🟩🟩🟩 🤝𝕭𝖔𝖔𝖙𝕾𝖙𝖗𝖆𝖕 𝕻𝖗𝖔𝖏𝖊𝖈𝖙:
--   portfolio cuda:https://portfolio-bappa.netlify.app/
--  পৌরাণিক: https://bappabappa.github.io/ProjectBS4PouranicSite/#share-head-section
--  GOGA-BAPPA: https://bappabappa.github.io/ProjectBS4gnoomSite/index.html. <br/>
+
+
 
 -🅱🅻🅾🅶🆂:
 
