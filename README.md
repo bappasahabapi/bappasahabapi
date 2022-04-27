@@ -43,12 +43,17 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 [3. CSE-পৌরাণিক](https://bappabappa.github.io/ProjectBS4PouranicSite/share-head-section)
 
 [4. portfolio cuda](https://portfolio-bappa.netlify.app/)
+  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
+  
+  
+[1. Football website](https://footbal-bappa.netlify.app/)
 
--  🟩🟩🟩🤝🅷🆃🅼🅻 & 🅲🆂🆂:
-- Batch-pouranic-Name:  [https://batch-pouranic.netlify.app/](https://batch-pouranic.netlify.app/)
-- HTML LAYOUT:https://basic-html-layout-by-bappa.netlify.app/
-- ProjectCSSNavbarMostWanted: https://bappabappa.github.io/ProjectCSSNavbarMostWanted/
+[2. Batch-pouranic-Name](https://batch-pouranic.netlify.app/)
 
+[3. HTML LAYOUT](https://basic-html-layout-by-bappa.netlify.app/)
+
+[4. ProjectCSSNavbarMostWanted](https://bappabappa.github.io/ProjectCSSNavbarMostWanted/)
 
 
 -🅱🅻🅾🅶🆂:
