@@ -35,8 +35,14 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂
 
 [1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
+ 
+[2. Pin-Matcher-OTP](https://bappasahabapi.github.io/pin-matcher-js/)
+ 
+[3. Shopping-Cart](https://bappasahabapi.github.io/shopping-cart-js/)
+ 
+[4. Bank-diposit-withdraw](https://bappasahabapi.github.io/bank-deposit-withdraw/banking.html)
 
-[2. Bappa-blog site](https://bappablog.netlify.app/)
+[5. Bappa-blog site](https://bappablog.netlify.app/)
  
  
  <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
