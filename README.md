@@ -72,7 +72,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 <!-- YOUTUBE:START -->
 
-[🔴Visual Studio Code Settings](https://github.com/bappasahabapi/Visiual-Studio-git-clone-Basic-Settings/blob/main/Visual%20Studio%20%20Code.txt)
+[🔴Visual Studio Code Settings](https://github.com/bappabappa/Visual-Studio-Code-Basic-Settings/)
 
 [🟡Install Node js & React js in M1 macbook](https://www.youtube.com/watch?v=O8_jtE6_Hno&t=97s)
 
