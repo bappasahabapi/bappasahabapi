@@ -1,6 +1,7 @@
 ![Github Banner](bappa2.png)
 
 ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
+![Profile views](https://gpvc.arturio.dev/bappabappa) 
 
 #### A passionate frontend developer from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI).     I Spend most of time coding outstanding projects or recording tutorials.
 _In a short,_
