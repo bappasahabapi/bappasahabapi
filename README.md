@@ -67,6 +67,19 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 [4. ProjectCSSNavbarMostWanted](https://bappabappa.github.io/ProjectCSSNavbarMostWanted/)
   
 [5. LeaderBoard](https://bappabappa.github.io/bappa-css3-leaderboard-project/)
+  
+ ### 📺 &emsp;𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
+
+<!-- YOUTUBE:START -->
+
+[🔴Visual Studio Code Settings](https://github.com/bappasahabapi/Visiual-Studio-git-clone-Basic-Settings/blob/main/Visual%20Studio%20%20Code.txt)
+
+[🟡Install Node js & React js in M1 macbook](https://www.youtube.com/watch?v=O8_jtE6_Hno&t=97s)
+
+[🟢Sublime text install on M1 chip macbook](https://www.youtube.com/watch?v=L-KnY5nBW5M&t=6s)
+
+[🔥Fire typing effect on visual studio code 🔥🔥🔥](https://www.youtube.com/watch?v=GvHXALZtQo8&t=44s)
+
 
 
 -🅱🅻🅾🅶🆂:
@@ -84,6 +97,8 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bappabappa&" alt="bappabappa" /></p>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bappabappa)  
+ 
+ 
 
   
 
