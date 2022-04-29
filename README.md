@@ -19,7 +19,15 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
  📜 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bappasahabapii) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=ov5eTtZuQLI) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bappasaha/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bappasahabapi/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bappasaha161@gmail.com)
+
+<p align="left">
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a href = "https://www.linkedin.com/in/bappasaha/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
+<a href = "https://www.facebook.com/bappasahabapii"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
+<a href = "https://www.instagram.com/bappasahabapi/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
+<a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
+</p>
+
 
 
   🆂🅾🅼🅴  🅾🅵  🅼🆈  🅻🅰🆃🅴🆂🆃  🅿🆁🅾🅹🅴🅲🆃🆂 
