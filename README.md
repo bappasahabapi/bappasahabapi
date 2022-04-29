@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+Bappa+Saha;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg) </br>
 
-
-
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300" height="200" /></br>
 
 #### A passionate frontend developer from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
