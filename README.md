@@ -18,7 +18,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">Portfolio </a></strong>  || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >Resume</a></strong>
 
- 📜 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
+##   🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
 
 <p align="left">
@@ -30,7 +30,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 </p>
 
 
-<h4><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> 🅻🅰🅽🅶🆄🅰🅶🅴🆂  🅰🅽🅳   🆃🅾🅾🅻🆂</h4>
+<h2><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> 🅻🅰🅽🅶🆄🅰🅶🅴🆂  🅰🅽🅳   🆃🅾🅾🅻🆂</h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img  width="47" height="47" src="https://media1.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=ecf05e47lonlwp3anstdkilndyjfu8ta6zcl38dvdw67t02c&rid=giphy.gif&ct=s"/> </a> 
