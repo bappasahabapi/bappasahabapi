@@ -1,10 +1,10 @@
 ![Github Banner](bappa2.png)
 
-![Profile views](https://gpvc.arturio.dev/bappabappa)<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a>
+![Profile views](https://gpvc.arturio.dev/bappabappa)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
-<strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">Portfolio </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >Resume</a></strong>
+<strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨🌏 </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >𝐑𝐞𝐬𝐮𝐦𝐞📜</a></strong>
 
 ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
 
