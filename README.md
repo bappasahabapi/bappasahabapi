@@ -2,6 +2,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/bappabappa)<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
+<strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">Portfolio </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >Resume</a></strong>
+
 ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
@@ -15,11 +19,9 @@ _In a short,_
 Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
 👀 I’m interested in web frameworks and love to make code in JavaScript😁
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">Portfolio </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >Resume</a></strong>
-
 ## 🟩 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
-</br>
+---
 
 <p align="left">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
@@ -28,8 +30,11 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <a href = "https://www.instagram.com/bappasahabapi/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
 <a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
+</br>
 
 ## 🟩 🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂
+
+---
 
 </br>
 <p align="left"> 
