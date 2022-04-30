@@ -138,7 +138,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bappabappa&" alt="bappabappa" /></p>
  
 
-# Contributions
+# 🟩Contributions
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bappabappa&theme=dracula&hide_border=true)
  
