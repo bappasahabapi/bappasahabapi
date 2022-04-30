@@ -17,7 +17,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">Portfolio </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >Resume</a></strong>
 
-## 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
+## 🟩 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
 </br>
 
@@ -29,7 +29,8 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
 
-<h3><a href="" target="_blank"> <img width="27" height="27"  src="https://i.giphy.com/media/CAIgh8LKFbIciGx5Qe/200.webp"/> </a> 🅻🅰🅽🅶🆄🅰🅶🅴🆂  🅰🅽🅳   🆃🅾🅾🅻🆂</h3>
+## 🟩 🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂
+
 </br>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
@@ -104,7 +105,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 [5. LeaderBoard](https://bappabappa.github.io/bappa-css3-leaderboard-project/)
 
-## 📺 &emsp;𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
+## 🟩 𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
 
 <!-- YOUTUBE:START -->
 
@@ -124,7 +125,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 [3. HTML5 Semantic tags, audio, video, table, form](https://www.linkedin.com/pulse/day-7-html5-semantic-tags-audio-video-table-form-jisan-mia)
 
-## &#x1f4c8; GitHub Stats 💎 GitHub Streak 🔥
+## 🟩 GitHub Stats &#x1f4c8; GitHub Streak 🔥
 
 <table>
   <tr>
@@ -190,6 +191,16 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 </a>
 </td>
 </tr>
+
+  <tr>
+<td>
+<a href="https://github.com/bappabappa/MongoDB-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bappabappa&repo=MongoDB-&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+
+</tr>
+
 </table>
 
 # 🟩Contributions
