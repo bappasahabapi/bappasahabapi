@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 ![Github Banner](bappa2.png)
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a>
@@ -6,12 +8,11 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨🌏 </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >𝐑𝐞𝐬𝐮𝐦𝐞📜</a></strong>
 
-## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
+<!-- ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app) -->
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 #### A passionate frontend developer from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
 
