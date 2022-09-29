@@ -166,6 +166,11 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <table>
   <tr>
      <td>
+<a href="https://github.com/bappasahabapi/Competitive-Programming">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=bappasahabapi&repo=Competitive-Programming&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+</td>
+<td>
 <a href="https://github.com/bappasahabapi/javaScript-problemSolving">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=bappasahabapi&repo=javaScript-problemSolving&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
