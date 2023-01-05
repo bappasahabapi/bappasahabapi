@@ -127,6 +127,8 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 ## 🟩🅱🅻🅾🅶🆂:
 
+[0. বাংলায় প্রোগ্রামিং রিসোর্স ](https://github.com/bappasahabapi/Programmming-resources-bangali)
+
 [1. Learn CSS Flexbox in an interesting way!](https://jisanmia.medium.com/learn-css-flexbox-in-an-interesting-way-3ed3c826efb9)
 
 [2. Important things CSS block, inline-block element, position, property, grid vs flexbox](https://www.linkedin.com/pulse/block-inline-block-element-position-property-grid-vs-jisan-mia/)
