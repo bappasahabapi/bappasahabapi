@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
-![Github Banner](bappada.png)
+<!-- ![Github Banner](bappada.png) -->
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a>
 ![Profile views](https://gpvc.arturio.dev/bappabappa)
@@ -18,7 +18,7 @@
 
 _In a short,_
 Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
-👀 I’m interested in web frameworks and love to make code in JavaScript😁
+👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
 
 ## 🟩 🅲🅾🅽🆃🅰🅲🆃 🅼🅴:
 
