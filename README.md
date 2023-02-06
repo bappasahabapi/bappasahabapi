@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
  ![Github Banner](bappa.png) 
+ 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a>
 ![Profile views](https://gpvc.arturio.dev/bappabappa)
