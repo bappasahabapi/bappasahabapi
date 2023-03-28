@@ -27,7 +27,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 ## 🎧 Competitive-Programming:
 ---
-### 🟡🇧🇩 URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
+### 🟡🇧🇩 URI/BeeCrowed-Online-Judge: https://www.beecrowd.com.br/judge/en/profile/209551
 ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161
 ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa
 
