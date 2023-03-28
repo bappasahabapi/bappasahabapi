@@ -10,6 +10,7 @@
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨🌏 </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >𝐑𝐞𝐬𝐮𝐦𝐞📜</a></strong>
 
 <!-- ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app) -->
+#### ✨My Blog Sites:  https://dev.to/bappasahabapi
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
 <!-- </br> -->
@@ -21,7 +22,7 @@ _In a short,_
 Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
 👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
 
-#### 
+
 
 ## 🎧 Competitive-Programming:
 ---
