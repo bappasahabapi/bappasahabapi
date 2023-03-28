@@ -21,8 +21,6 @@ _In a short,_
 Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
 👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
 
-
- 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....![Github Banner](rsz_bappa.png)
 #### 
 
 ## 🎧 Competitive-Programming:
