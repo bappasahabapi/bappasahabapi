@@ -49,6 +49,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 ## 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
+## 🔰🚀 Interview JavaScript: https://github.com/bappasahabapi/Interview-Questions-Front-end
 ---
 ## 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
@@ -67,10 +68,6 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
 ## 🔴 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
----
-
-## 🔰🔴 Interview JavaScript:
-https://github.com/bappasahabapi/Interview-Questions-Front-end
 ---
 
 
