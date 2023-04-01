@@ -26,12 +26,12 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 ## 🎧 Competitive-Programming:
 ---
+### 🟡🇧🇩Level-1-ProblemSet-Solved: https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-
 ### 🟡🇧🇩 URI/BeeCrowed-Online-Judge: https://www.beecrowd.com.br/judge/en/profile/209551
-### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161
-### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa
+<!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
+<!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
 
 ---
-### Level-1-ProblemSet-Solved: https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-
 ## 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 ### 🚀 C-Programming : https://github.com/bappasahabapi/C-programmin
 ### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
@@ -68,9 +68,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
 ## 🔴 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
 ---
-### 🟡 URI/BeeCrowed-Online-Judge: https://github.com/bappasahabapi/uri_solve_cpp
-### 🟡 HakerRank: https://www.hackerrank.com/bappasaha161
-### 🟡 CodeForce:https://codeforces.com/profile/bappa
+
 
 ---
 
