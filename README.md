@@ -47,8 +47,8 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 ### 🚀 java_netbeans : https://github.com/bappasahabapi/java_netbeans
 ---
 ## 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
+### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions
 ---
 ## 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
