@@ -133,9 +133,9 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 [1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
 
-[2. Pin-Matcher-OTP](https://bappasahabapi.github.io/pin-matcher-js/)
+[2. Pin-Matcher-OTP](https://bappasahabapi0.github.io/pin-matcher-js/)
 
-[3. Shopping-Cart](https://bappasahabapi.github.io/shopping-cart-js/)
+[3. Shopping-Cart](https://bappasahabapi0.github.io/shopping-cart-js/)
 
 [4. Bank-diposit-withdraw](https://bappasahabapi0.github.io/bank-deposit-withdraw/banking.html)
 
