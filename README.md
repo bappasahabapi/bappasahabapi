@@ -3,14 +3,14 @@
  ![Github Banner](bappa.png) 
  𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a>
+<!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a> -->
 ![Profile views](https://gpvc.arturio.dev/bappabappa)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨🌏 </a></strong> || <strong align="center"> <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >𝐑𝐞𝐬𝐮𝐦𝐞📜</a></strong>
 
 <!-- ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app) -->
-#### ✨👾 My Blog Sites:  https://dev.to/bappasahabapi
+#### ✨ My Blog Sites:  https://dev.to/bappasahabapi
 🦸🏿‍♂️[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel")
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
@@ -19,8 +19,8 @@
 
 #### A passionate frontend developer from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
 
-_In a short,_
-Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me.
+<!-- _In a short,_ -->
+<!-- Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me. -->
 👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
 
 
@@ -112,7 +112,7 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <a href="https://sass-lang.com" target="_blank"> <img width="48" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img width="48" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" /> </a>
 <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
+ <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p>
 
 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅻🅰🆃🅴🆂🆃 🅿🆁🅾🅹🅴🅲🆃🆂
