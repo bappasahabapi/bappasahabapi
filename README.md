@@ -33,27 +33,27 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
 
 ---
-## 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 C-Programming : https://github.com/bappasahabapi/C-programmin
-### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
+### 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 C-Programming : https://github.com/bappasahabapi/C-programmin
+#### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
 ---
-## 🔰ᑕᑭᑭ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 Cpp-Code : https://github.com/bappasahabapi/STL_PROGRAMS
-### 🚀 Cpp_Programs : https://github.com/bappasahabapi/cpp_program
+### 🔰ᑕᑭᑭ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 Cpp-Code : https://github.com/bappasahabapi/STL_PROGRAMS
+#### 🚀 Cpp_Programs : https://github.com/bappasahabapi/cpp_program
 ---
-## 🔰STᒪ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 STL-Program : https://github.com/bappasahabapi/STL_PROGRAMS
+### 🔰STᒪ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 STL-Program : https://github.com/bappasahabapi/STL_PROGRAMS
 ---
-## 🔰ᒍᗩᐯᗩ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 java_netbeans : https://github.com/bappasahabapi/java_netbeans
+### 🔰ᒍᗩᐯᗩ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 java_netbeans : https://github.com/bappasahabapi/java_netbeans
 ---
-## 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
-### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
+### 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
+#### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
 ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions
 ---
-## 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
+### 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+#### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
 ---
 
 
@@ -61,14 +61,14 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 
 
-### 💡🚀 Prolog-Code-Gitbash : https://github.com/bappasahabapi/prologcodeRMS
+#### 💡🚀 Prolog-Code-Gitbash : https://github.com/bappasahabapi/prologcodeRMS
 ---
-### 💡🚀 RMSTU-LAB-CODE-python: https://github.com/bappasahabapi/rmstu-lab-code
+#### 💡🚀 RMSTU-LAB-CODE-python: https://github.com/bappasahabapi/rmstu-lab-code
 ---
 ---
 
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
-## 🔴 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
+## 🟡 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
 ---
 
 
@@ -167,13 +167,13 @@ Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be
 
 <!-- YOUTUBE:START -->
 
-[🟢Github-documentation](https://github.com/bappasahabapi/Github-documenatation/)
+[🟡Github-documentation](https://github.com/bappasahabapi/Github-documenatation/)
 
-[🔴Visual Studio Code Settings](https://github.com/bappabappa/Visual-Studio-Code-Basic-Settings/)
+[🟡Visual Studio Code Settings](https://github.com/bappabappa/Visual-Studio-Code-Basic-Settings/)
 
 [🟡Install Node js & React js in M1 macbook](https://www.youtube.com/watch?v=O8_jtE6_Hno&t=97s)
 
-[🟢Sublime text install on M1 chip macbook](https://www.youtube.com/watch?v=L-KnY5nBW5M&t=6s)
+[🟡Sublime text install on M1 chip macbook](https://www.youtube.com/watch?v=L-KnY5nBW5M&t=6s)
 
 [🔥Fire typing effect on visual studio code 🔥🔥🔥](https://www.youtube.com/watch?v=GvHXALZtQo8&t=44s)
 
