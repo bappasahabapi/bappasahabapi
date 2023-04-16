@@ -49,8 +49,8 @@
 ---
 ### 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 #### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
-#### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z-
-### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions
+<!-- #### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z- -->
+<!-- ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions -->
 ---
 ### 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 #### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
@@ -88,7 +88,7 @@
 ## 🟩 🅻🅰🅽🅶🆄🅰🅶🅴🆂 🅰🅽🅳 🆃🅾🅾🅻🆂
 
 ---
-
+<!-- 
 </br>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img width="47" height="47"  src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp"/> </a> 
@@ -113,7 +113,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img width="48" height="46" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" /> </a>
 <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img width="47" height="47" src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
-</p>
+</p> -->
 
 🆂🅾🅼🅴 🅾🅵 🅼🆈 🅻🅰🆃🅴🆂🆃 🅿🆁🅾🅹🅴🅲🆃🆂
 
