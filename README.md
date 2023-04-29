@@ -51,7 +51,7 @@
 #### [🚀 java_netbeans](https://github.com/bappasahabapi/java_netbeans)
 ---
 ### 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### [🚀 JavaScript-problemSolving](:https://github.com/bappasahabapi/javaScript-problemSolving)
+#### [🚀 JavaScript-problemSolving](https://github.com/bappasahabapi/javaScript-problemSolving)
 <!-- #### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z- -->
 <!-- ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions -->
 ---
