@@ -29,14 +29,14 @@
 
 ## 🎧 Competitive-Programming:
 ---
-### 🟡🇧🇩Level-1-ProblemSet-Solved: https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-
-### 🟡🇧🇩 URI/BeeCrowed-Online-Judge: https://www.beecrowd.com.br/judge/en/profile/209551
+### [🇧🇩Level-1-ProblemSet-Solved:](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-)
+###   [ 🇧🇩 URI/BeeCrowed-Online-Judge:](https://www.beecrowd.com.br/judge/en/profile/209551)
 <!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
 
----
+---    
 ### 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 C-Programming : https://github.com/bappasahabapi/C-programmin
+#### [🚀 C-Programming](https://github.com/bappasahabapi/C-programmin)
 #### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
 ---
 ### 🔰ᑕᑭᑭ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
