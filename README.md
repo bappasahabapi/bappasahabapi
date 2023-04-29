@@ -37,40 +37,34 @@
 ---    
 ### 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 #### [🚀 C-Programming](https://github.com/bappasahabapi/C-programmin)
-#### 🚀 spl_c-program: https://github.com/bappasahabapi/spl_c-program
+
+#### [🚀 spl_c-program:](https://github.com/bappasahabapi/spl_c-program)
 ---
 ### 🔰ᑕᑭᑭ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 Cpp-Code : https://github.com/bappasahabapi/STL_PROGRAMS
-#### 🚀 Cpp_Programs : https://github.com/bappasahabapi/cpp_program
+#### [ 🚀 Cpp-Code](https://github.com/bappasahabapi/STL_PROGRAMS)
+#### [ 🚀 Cpp_Programs](https://github.com/bappasahabapi/cpp_program)
 ---
 ### 🔰STᒪ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 STL-Program : https://github.com/bappasahabapi/STL_PROGRAMS
+#### [🚀 STL-Program ]( https://github.com/bappasahabapi/STL_PROGRAMS)
 ---
 ### 🔰ᒍᗩᐯᗩ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 java_netbeans : https://github.com/bappasahabapi/java_netbeans
+#### [🚀 java_netbeans](https://github.com/bappasahabapi/java_netbeans)
 ---
 ### 🔰ᒍᗩᐯᗩ-SᑕᖇIᑭT-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 JavaScript-problemSolving :https://github.com/bappasahabapi/javaScript-problemSolving
+#### [🚀 JavaScript-problemSolving ](:https://github.com/bappasahabapi/javaScript-problemSolving)
 <!-- #### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z- -->
 <!-- ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions -->
 ---
 ### 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
-#### 🚀 Python-series: https://github.com/bappasahabapi/python-series-01
----
+#### [🚀 Python-series:](https://github.com/bappasahabapi/python-series-01)
 
+#### [💡🚀 Prolog-Code-Gitbash](https://github.com/bappasahabapi/prologcodeRMS)
 
-
-
-
-
-#### 💡🚀 Prolog-Code-Gitbash : https://github.com/bappasahabapi/prologcodeRMS
----
-#### 💡🚀 RMSTU-LAB-CODE-python: https://github.com/bappasahabapi/rmstu-lab-code
----
+#### [💡🚀 RMSTU-LAB-CODE-python:]( https://github.com/bappasahabapi/rmstu-lab-code)
 ---
 
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
-## 🟡 Algorithm-cpp: https://github.com/bappasahabapi/Algorithm.cpp
+## [🟡 Algorithm-cpp:](https://github.com/bappasahabapi/Algorithm.cpp)
 ---
 
 
