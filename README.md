@@ -111,6 +111,8 @@
  <a href="https://git-scm.com/" target="_blank"> <img width="47" height="47" src="https://media4.giphy.com/media/kH1DBkPNyZPOk0BxrM/100.webp?cid=ecf05e477pqeoaxozs3ibfvu76lgbkrjp6ns22x0qzrdpfu7&rid=100.webp&ct=s"/> </a> 
 </p> -->
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bappasahabapi&show_icons=true&locale=en&layout=compact" alt="bappa-saha-bapi" /></p>
+
 🟩 𝗦𝗼𝗺𝗲 𝗼𝗳 𝗠𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
