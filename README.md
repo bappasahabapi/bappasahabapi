@@ -27,13 +27,12 @@
 
 
 
-## 🎧 Competitive-Programming:
+<!-- ## 🎧 Competitive-Programming: -->
 ---
-### [🇧🇩Level-1-ProblemSet-Solved:](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-)
-###   [ 🇧🇩 URI/BeeCrowed-Online-Judge:](https://www.beecrowd.com.br/judge/en/profile/209551)
+<!-- ### [🇧🇩Level-1-ProblemSet-Solved:](https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-) -->
+<!-- ###   [ 🇧🇩 URI/BeeCrowed-Online-Judge:](https://www.beecrowd.com.br/judge/en/profile/209551) -->
 <!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
----
 ### My Coding Experience
 
 <table>
