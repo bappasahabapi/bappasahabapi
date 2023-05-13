@@ -50,7 +50,7 @@
       <td>
         <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-" target="_blank"> 1. ProblemSet-Solving Code</a><br>
         <a href="https://www.beecrowd.com.br/judge/en/profile/209551" target="_blank">2. URI/BeeCrowed-Online-Judge</a><br>
-        <a href="https://github.com/bappasahabapi/Algorithm.cpp" target="_blank">3. Algorithm code with c++</a><br>
+        <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm" target="_blank">3. Algorithm code with c++</a><br>
             <!-- HakerRank: https://www.hackerrank.com/bappasaha161 -->
          <!-- CodeForce:https://codeforces.com/profile/bappa  -->
     </td>
