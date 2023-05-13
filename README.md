@@ -33,9 +33,80 @@
 ###   [ 🇧🇩 URI/BeeCrowed-Online-Judge:](https://www.beecrowd.com.br/judge/en/profile/209551)
 <!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
+---
+### My Coding Experience
 
----    
-### 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Language</b></td>
+      <td><b>Description</b></td>
+      <td><b>Comments</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>🎧 Competitive-Programming</td>
+      <td> Here I implemented of Basic data structure of C++ like 'Tower of hanoi, 'Searching algo','Sorting algo', Linked List and many more. Problem solving using algorithm. Online Judge solved </td>
+      <td>
+        <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3" target="_blank"> 1. ProblemSet-Solving Code</a><br>
+        <a href="https://www.beecrowd.com.br/judge/en/profile/209551" target="_blank">2. URI/BeeCrowed-Online-Judge</a><br>
+        <a href="https://github.com/bappasahabapi/Algorithm.cpp" target="_blank">3. Algorithm code with c++</a><br>
+            <!-- HakerRank: https://www.hackerrank.com/bappasaha161 -->
+         <!-- CodeForce:https://codeforces.com/profile/bappa  -->
+    </td>
+    </tr>
+    <tr>
+      <td>🔰 C Programming</></td>
+      <td>Here i have uploaded my 1st semester program codes. basic C code with some mini project</td>
+      <td>
+<a href="https://github.com/bappasahabapi/C-programmin" target="_blank">1. C Programming</a><br>
+<a href="https://github.com/bappasahabapi/spl_c-program" target="_blank">2. SPL_C_program</a>
+  </td>
+    </tr>
+    <tr>
+      <td>🔰 C++ Programming</a></td>
+      <td>C++ code basic , mid and STL codes</td>
+      <td><a href="https://github.com/bappasahabapi/cpp_program" target="_blank">1. Cpp Code</a> <br>
+<a href="https://github.com/bappasahabapi/STL_PROGRAMS" target="_blank">2. CPP_program</a><br>
+<a href="https://github.com/bappasahabapi/STL_PROGRAMS" target="_blank"> 3. STL-Programs</a>
+
+</td>
+    </tr>
+    <tr>
+      <td>🔰 Java Programming</td>
+      <td>Code with make a student management system using java and java swing</td>
+      <td><a href="https://github.com/bappasahabapi/java_netbeans" target="_blank"> 1.java_netbeans</a></td>
+    </tr>
+    <tr>
+      <td>🔰JavaScript Programming</a></td>
+      <td>Write code and many concept of js is implemented with 10+ dom projects</td>
+      <td>
+        <a href="https://github.com/bappasahabapi/javaScript-problemSolving" target="_blank">1.JavaScript-problemSolving</a><br>
+        <a href="https://github.com/bappasahabapi/JavaScript-A-Z" target="_blank">2. JavaScript A-Z</a><br>
+        <!-- <a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank">Interview JavaScript:</a><br> -->
+    </td>
+    </tr>
+    <tr>
+      <td>🔰 Python Programming</td>
+      <td>Basic and Lab codes </td>
+      <td> 
+        <a href="https://github.com/bappasahabapi/python-series-01" target="_blank">1.Python-series</a> <br>
+        <a href="https://github.com/bappasahabapi/rmstu-lab-code" target="_blank">2. RMSTU-LAB-CODE-python</a>
+        <a href="https://github.com/bappasahabapi/rmstu-lab-code" target="_blank">3. RMSTU-LAB-CODE-python</a>
+    </td>
+    </tr>
+    <tr>
+      <td>🔰  Prolog shell Gitbash</td>
+      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
+      <td><a href="https://github.com/bappasahabapi/prologcodeRMS" target="_blank">1.Prolog-Code-Gitbash</a> </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!-- ### 🔰ᑕ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 #### [🚀 C-Programming](https://github.com/bappasahabapi/C-programmin)
 
 #### [🚀 spl_c-program:](https://github.com/bappasahabapi/spl_c-program)
@@ -55,7 +126,7 @@
 <!-- #### 🚀 JavaScript A-Z : https://github.com/bappasahabapi/JavaScript-A-Z- -->
 <!-- ### 🔰🚀 Interview JavaScript: https://github.com/sudheerj/javascript-interview-questions -->
 ---
-### 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
+<!-- ### 🔰 ᑭYTᕼOᑎ-ᑭᖇOGᖇᗩᗰᗰIᑎG:
 #### [🚀 Python-series:](https://github.com/bappasahabapi/python-series-01)
 
 #### [💡🚀 Prolog-Code-Gitbash](https://github.com/bappasahabapi/prologcodeRMS)
@@ -64,8 +135,7 @@
 ---
 
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
-## [🟡 Algorithm-cpp:](https://github.com/bappasahabapi/Algorithm.cpp)
----
+## [🟡 Algorithm-cpp:](https://github.com/bappasahabapi/Algorithm.cpp) -->
 
 
 ## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
