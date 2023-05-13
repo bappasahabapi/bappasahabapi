@@ -139,7 +139,6 @@
 
 ## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
 
----
 
 <p align="left">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
@@ -152,7 +151,6 @@
 
 ## 🟩 ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 
----
 <!-- 
 </br>
 <p align="left"> 
