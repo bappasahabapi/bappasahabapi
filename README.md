@@ -40,7 +40,7 @@
     <tr border: none;>
       <td><b>Language</b></td>
       <td><b>Description</b></td>
-      <td><b>Comments</b></td>
+      <td><b>Source link</b></td>
     </tr>
   </thead>
   <tbody>
