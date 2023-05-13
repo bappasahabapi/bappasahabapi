@@ -98,7 +98,7 @@
     <tr>
       <td>🔰  Prolog shell Gitbash</td>
       <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td><a href="https://github.com/bappasahabapi/prologcodeRMS" target="_blank">1.Prolog-Code-Gitbash</a> </td>
+      <td><a href="https://github.com/bappasahabapi/prologcode" target="_blank">1.Prolog-Code-Gitbash</a> </td>
     </tr>
   </tbody>
 </table>
