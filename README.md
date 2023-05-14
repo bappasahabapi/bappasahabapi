@@ -251,7 +251,7 @@
      <td>Done</td>
     </tr>
      <tr>
-      <td > <a href="(https://bappasahabapi0.github.io/pin-matcher-js/" target="_blank">3.Piin Matcher OTP </a></td>
+      <td > <a href="https://bappasahabapi0.github.io/pin-matcher-js/" target="_blank">3.Piin Matcher OTP </a></td>
       <td>Generate phone OTP</td>
       <td>Done</td>
     </tr>
