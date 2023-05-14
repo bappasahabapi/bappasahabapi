@@ -226,9 +226,55 @@
   </tbody>
 </table>
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 🅿🆁🅾🅹🅴🅲🆃🆂
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project Name</b></td>
+      <td><b>Type</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td > <a href="https://bd-phone.netlify.app/" target="_blank">1. Phone Shop </a></td>
+      <td>E-commerse</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://mackbook-m1-bappa.netlify.app/" target="_blank">2.Mackbook Shop </a></td>
+      <td>E-commerse</td>
+     <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="(https://bappasahabapi0.github.io/pin-matcher-js/" target="_blank">3.Piin Matcher OTP </a></td>
+      <td>Generate phone OTP</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappasahabapi0.github.io/shopping-cart-js/" target="_blank">4.Shopping Cart</a></td>
+      <td>Dom Implementation</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappasahabapi0.github.io/bank-deposit-withdraw/banking.html" target="_blank">5.Bank ATM</a></td>
+      <td>Dom Practising<br></td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappablog.netlify.app/" target="_blank">5.Bappa-blog-site</a></td>
+      <td>Dom Implementation</td>
+      <td> " ❌ "</td>
+    </tr>
+</td>
+  </tbody>
+</table>
+<!-- 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂
 
-[0. Phone Shop](https://bd-phone.netlify.app/)
+<!-- [0. Phone Shop](https://bd-phone.netlify.app/)
  
 [1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
 
@@ -238,23 +284,56 @@
 
 [4. Bank-diposit-withdraw](https://bappasahabapi0.github.io/bank-deposit-withdraw/banking.html)
 
-[5. Bappa-blog site](https://bappablog.netlify.app/)
- 
+[5. Bappa-blog site](https://bappablog.netlify.app/) -->
+  
 
 
  <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
 
-[1. Honda-Shop](https://honda-cbr-bootstarp-assignment.netlify.app/)
+<!-- [1. Honda-Shop](https://honda-cbr-bootstarp-assignment.netlify.app/)
 
 [2. GOGA-BAPPA](https://bappabappa.github.io/ProjectBS4gnoomSite/index.html)
 
 [3. CSE-পৌরাণিক](https://bappabappa.github.io/ProjectBS4PouranicSite/share-head-section)
 
-[4. portfolio cuda](https://portfolio-bappa.netlify.app/)
+[4. portfolio cuda](https://portfolio-bappa.netlify.app/) -->
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project Name</b></td>
+      <td><b>Type</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td > <a href="https://honda-cbr-bootstarp-assignment.netlify.app/" target="_blank">1. Honda-Shop </a></td>
+      <td>Responsive </td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappabappa.github.io/ProjectBS4gnoomSite/index.html" target="_blank">2.GOGA-BAPPA </a></td>
+      <td>Responsive</td>
+     <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappabappa.github.io/ProjectBS4PouranicSite/share-head-section" target="_blank">3.CSE-পৌরাণিক </a></td>
+      <td>Animated work</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://portfolio-bappa.netlify.app" target="_blank">4.portfolio cuda</a></td>
+      <td>Simple portfolio</td>
+      <td>Done</td>
+    </tr>
+    </tr>
+</td>
+  </tbody>
+</table>
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
 
-[1. Football website](https://footbal-bappa.netlify.app/)
+<!-- [1. Football website](https://footbal-bappa.netlify.app/)
 
 [2. Batch-pouranic-Name](https://batch-pouranic.netlify.app/)
 
@@ -262,7 +341,47 @@
 
 [4. ProjectCSSNavbarMostWanted](https://bappabappa.github.io/ProjectCSSNavbarMostWanted/)
 
-[5. LeaderBoard](https://bappabappa.github.io/bappa-css3-leaderboard-project/)
+[5. LeaderBoard](https://bappabappa.github.io/bappa-css3-leaderboard-project/) -->
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project Name</b></td>
+      <td><b>Type</b></td>
+      <td><b>Status</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td > <a href="https://footbal-bappa.netlify.app/" target="_blank">1.  Football website </a></td>
+      <td>Grid and Flex</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappabappa.github.io/bappa-css3-leaderboard-project/" target="_blank">2.LeaderBoard </a></td>
+      <td>Raw css</td>
+     <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://batch-pouranic.netlify.app/" target="_blank">3. Batch-pouranic-Name </a></td>
+      <td>Animated work</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://bappabappa.github.io/ProjectCSSNavbarMostWanted/" target="_blank">4.ProjectCSSNavbarMostWanted</a></td>
+      <td>Navigation </td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td > <a href="https://basic-html-layout-by-bappa.netlify.app/" target="_blank">5. HTML LAYOUT</a></td>
+      <td>Grid Flex layout</td>
+      <td>Done</td>
+    </tr>
+</td>
+  </tbody>
+</table>
+
+
 
 ## 🟩 𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
 
