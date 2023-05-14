@@ -33,6 +33,18 @@
 <!-- ###   [ 🇧🇩 URI/BeeCrowed-Online-Judge:](https://www.beecrowd.com.br/judge/en/profile/209551) -->
 <!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
+## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
+
+
+<p align="left">
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
+<a href = "https://www.linkedin.com/in/bappasaha/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
+<a href = "https://www.facebook.com/bappasahabapii"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
+<a href = "https://www.instagram.com/bappasahabapi/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
+<a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
+</p>
+</br>
+
 ### 🟩 My Coding Experience
 
 <table>
@@ -137,17 +149,7 @@
 ## [🟡 Algorithm-cpp:](https://github.com/bappasahabapi/Algorithm.cpp) -->
 
 
-## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
 
-
-<p align="left">
-<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
-<a href = "https://www.linkedin.com/in/bappasaha/"><img width="48" height="48"  src="https://c.tenor.com/KWP6B61DE48AAAAd/teameasil-linkedin.gif"/></a>
-<a href = "https://www.facebook.com/bappasahabapii"><img width="48" height="48" src="https://i.giphy.com/media/XEy1qyv7GdLpmqHEPV/200w.webp"/></a>
-<a href = "https://www.instagram.com/bappasahabapi/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
-<a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
-</p>
-</br>
 
 ## 🟩 ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 
