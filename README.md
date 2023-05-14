@@ -393,7 +393,7 @@
       <td>Done</td>
     </tr>
      <tr>
-      <td > <a href="https://bappabappa.github.io/bappa-css3-leaderboard-project/" target="_blank">2.LeaderBoard </a></td>
+      <td > <a href="https://bappasahabapi.github.io/bappa-css3-leaderboard-project/" target="_blank">2.LeaderBoard </a></td>
       <td>Raw css</td>
      <td>Done</td>
     </tr>
@@ -403,7 +403,7 @@
       <td>Done</td>
     </tr>
      <tr>
-      <td > <a href="https://bappabappa.github.io/ProjectCSSNavbarMostWanted/" target="_blank">4.ProjectCSSNavbarMostWanted</a></td>
+      <td > <a href="https://bappasahabapi.github.io/ProjectCSSNavbarMostWanted/" target="_blank">4.ProjectCSSNavbarMostWanted</a></td>
       <td>Navigation </td>
       <td>Done</td>
     </tr>
