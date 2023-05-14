@@ -347,7 +347,7 @@
       <td>Done</td>
     </tr>
      <tr>
-      <td > <a href="https://bappabappa.github.io/ProjectBS4gnoomSite/index.html" target="_blank">2.GOGA-BAPPA </a></td>
+      <td > <a href="https://bappasahabapi.github.io/ProjectBS4gnoomSite/index.html" target="_blank">2.GOGA-BAPPA </a></td>
       <td>Responsive</td>
      <td>Done</td>
     </tr>
