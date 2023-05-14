@@ -185,8 +185,41 @@
 ## 🟩 𝗦𝗼𝗺𝗲 𝗼𝗳 𝗠𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;Most used line of code `console.log("hello world")` 
 🔹 I’m currently learning React js.
+
+###   🟩 My Upcomming Projects:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Framework</b></td>
+      <td><b>Type</b></td>
+      <td><b>Status</b></td>
+      <td><b>Remarks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Chat Application</td>
+      <td>5% done</td>
+      <td>pending</td>
+    </tr>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Youtube Website </td>
+      <td>50% done</td>
+      <td>Pending </td>
+    </tr>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Todo Application </td>
+      <td>80% done</td>
+      <td>Pending </td>
+    </tr>
+</td>
+  </tbody>
+</table>
 
 <!-- [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
