@@ -12,7 +12,7 @@
 </strong>
 
 <!-- ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app) -->
-#### ✨ My Blog Sites:  https://dev.to/bappasahabapi
+#### ✨[ My Blog Sites:]( https://dev.to/bappasahabapi)
 🦸🏿‍♂️[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel")
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
