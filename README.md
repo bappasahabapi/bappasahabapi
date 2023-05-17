@@ -196,6 +196,7 @@
       <td><b>Type</b></td>
       <td><b>Status</b></td>
       <td><b>Remarks</b></td>
+      <td><b>@Source </b></td>
     </tr>
   </thead>
   <tbody>
@@ -204,18 +205,21 @@
       <td>Chat Application</td>
       <td>5% done</td>
       <td>pending</td>
+      <td>Internet</td>
     </tr>
      <tr>
       <td>React Redux toolkit </td>
       <td>Youtube Website </td>
       <td>50% done</td>
       <td>Pending </td>
+     <td>Internet</td>
     </tr>
      <tr>
       <td>React Redux toolkit </td>
       <td>Todo Application </td>
       <td>80% done</td>
       <td>Pending </td>
+      <td>Internet</td>
     </tr>
 </td>
   </tbody>
@@ -270,6 +274,7 @@
       <td><b>Project Name</b></td>
       <td><b>Type</b></td>
       <td><b>Status</b></td>
+      <td><b>Credits goes</b></td>
     </tr>
   </thead>
   <tbody>
@@ -277,30 +282,36 @@
       <td > <a href="https://bd-phone.netlify.app/" target="_blank">1. Phone Shop </a></td>
       <td>E-commerse</td>
       <td>Done</td>
+      <td>PH</td>
     </tr>
      <tr>
       <td > <a href="https://mackbook-m1-bappa.netlify.app/" target="_blank">2.Mackbook Shop </a></td>
       <td>E-commerse</td>
      <td>Done</td>
+     <td>" ❌ "</td>
     </tr>
      <tr>
       <td > <a href="https://bappasahabapi0.github.io/pin-matcher-js/" target="_blank">3.Piin Matcher OTP </a></td>
       <td>Generate phone OTP</td>
       <td>Done</td>
+       <td>PH</td>
     </tr>
      <tr>
       <td > <a href="https://bappasahabapi0.github.io/shopping-cart-js/" target="_blank">4.Shopping Cart</a></td>
       <td>Dom Implementation</td>
       <td>Done</td>
+       <td>" ❌ "</td>
     </tr>
      <tr>
       <td > <a href="https://bappasahabapi0.github.io/bank-deposit-withdraw/banking.html" target="_blank">5.Bank ATM</a></td>
       <td>Dom Practising<br></td>
       <td>Done</td>
+      <td> PH</td>
     </tr>
      <tr>
       <td > <a href="https://bappablog.netlify.app/" target="_blank">5.Bappa-blog-site</a></td>
       <td>Dom Implementation</td>
+      <td> Done</td>
       <td> " ❌ "</td>
     </tr>
 </td>
