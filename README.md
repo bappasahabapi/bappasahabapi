@@ -221,6 +221,20 @@
       <td>Pending </td>
       <td>Internet</td>
     </tr>
+     <tr>
+      <td>React </td>
+      <td>Thakurgaon Portal </td>
+      <td> Front end done <br> backended deployement (due) </td>
+      <td>Pending </td>
+      <td> -- ❌ -- </td>
+    </tr>
+     <tr>
+      <td>Next js 13.4  </td>
+      <td> Netflix  </td>
+      <td> Layout is done only </td>
+      <td> Pending </td>
+      <td> Internet  </td>
+    </tr>
 </td>
   </tbody>
 </table>
@@ -274,7 +288,7 @@
       <td><b>Project Name</b></td>
       <td><b>Type</b></td>
       <td><b>Status</b></td>
-      <td><b>Credits goes</b></td>
+      <td><b>@Source</b></td>
     </tr>
   </thead>
   <tbody>
