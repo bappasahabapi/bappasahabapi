@@ -188,56 +188,7 @@
 :computer: &emsp;Most used line of code `console.log("hello world")` 
 🔹 I’m currently learning React js.
 
-###   🟩 My Upcomming Projects:
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Framework</b></td>
-      <td><b>Type</b></td>
-      <td><b>Status</b></td>
-      <td><b>Remarks</b></td>
-      <td><b>@Source </b></td>
-    </tr>
-  </thead>
-  <tbody>
-     <tr>
-      <td>React Redux toolkit </td>
-      <td>Chat Application</td>
-      <td>5% done</td>
-      <td>pending</td>
-      <td>Internet</td>
-    </tr>
-     <tr>
-      <td>React Redux toolkit </td>
-      <td>Youtube Website </td>
-      <td>50% done</td>
-      <td>Pending </td>
-     <td>Internet</td>
-    </tr>
-     <tr>
-      <td>React Redux toolkit </td>
-      <td>Todo Application </td>
-      <td>80% done</td>
-      <td>Pending </td>
-      <td>Internet</td>
-    </tr>
-     <tr>
-      <td>React </td>
-      <td>Thakurgaon Portal </td>
-      <td> Front end done <br> backended deployement (due) </td>
-      <td>Pending </td>
-      <td> -- ❌ -- </td>
-    </tr>
-     <tr>
-      <td>Next js 13.4  </td>
-      <td> Netflix  </td>
-      <td> Layout is done only </td>
-      <td> Pending </td>
-      <td> Internet  </td>
-    </tr>
-</td>
-  </tbody>
-</table>
+
 
 <!-- [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
@@ -436,6 +387,57 @@
       <td > <a href="https://basic-html-layout-by-bappa.netlify.app/" target="_blank">5. HTML LAYOUT</a></td>
       <td>Grid Flex layout</td>
       <td>Done</td>
+    </tr>
+</td>
+  </tbody>
+</table>
+
+###   🟩 My Upcomming Projects:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Framework</b></td>
+      <td><b>Type</b></td>
+      <td><b>Status</b></td>
+      <td><b>Remarks</b></td>
+      <td><b>@Source </b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Chat Application</td>
+      <td>5% done</td>
+      <td>pending</td>
+      <td>Internet</td>
+    </tr>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Youtube Website </td>
+      <td>50% done</td>
+      <td>Pending </td>
+     <td>Internet</td>
+    </tr>
+     <tr>
+      <td>React Redux toolkit </td>
+      <td>Todo Application </td>
+      <td>80% done</td>
+      <td>Pending </td>
+      <td>Internet</td>
+    </tr>
+     <tr>
+      <td>React </td>
+      <td>Thakurgaon Portal </td>
+      <td> Front end done <br> backended deployement (due) </td>
+      <td>Pending </td>
+      <td> -- ❌ -- </td>
+    </tr>
+     <tr>
+      <td>Next js 13.4  </td>
+      <td> Netflix  </td>
+      <td> Layout is done only </td>
+      <td> Pending </td>
+      <td> Internet  </td>
     </tr>
 </td>
   </tbody>
