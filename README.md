@@ -226,6 +226,12 @@
       <td>None<br></td>
       <td>Backened should be deployed heroku to vercel<br></td>
     </tr>
+   <tr>
+      <td > <a href="https://thakurgaon-portal.web.app/" target="_blank">3.Thakurgaon-Poratal </a></td>
+      <td>1.Firebase google authentication,hosted firebase for front-end and server is in vercel<br></td>
+      <td>Internet<br></td>
+      <td>done<br></td>
+    </tr>
 </td>
   </tbody>
 </table>
