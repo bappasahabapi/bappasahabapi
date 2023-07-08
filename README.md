@@ -5,7 +5,6 @@
 
 <!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a> -->
 ![Profile views](https://gpvc.arturio.dev/bappabappa)
-![Profile views](https://gpvc.arturio.dev/bappasahabapi)
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 </a></strong> || <strong align="center"> </br>
 <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >📜 𝐑𝐞𝐬𝐮𝐦𝐞</a>
