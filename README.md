@@ -1,4 +1,4 @@
- [Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=0) 
+### [🎡 Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=0) 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
  ![Github Banner](bappa.png) 
@@ -19,7 +19,6 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
 <!-- </br> -->
 
- [Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=0) 
 #### A passionate frontend from <img src="bangladesh.png" width="18"/> Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
 
 <!-- _In a short,_ -->
