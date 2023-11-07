@@ -63,6 +63,8 @@
         <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-" target="_blank"> 1. ProblemSet-Solving Code</a><br>
         <a href="https://www.beecrowd.com.br/judge/en/profile/209551" target="_blank">2. URI/BeeCrowed-Online-Judge</a><br>
         <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm" target="_blank">3. Algorithm code with c++</a><br>
+         <a href="https://www.hackerrank.com/bappasaha161" target="_blank"> 4. HakerRank </a><br>
+         <a href="https://codeforces.com/profile/bappa " target="_blank"> 5.   CodeForce </a><br>
             <!-- HakerRank: https://www.hackerrank.com/bappasaha161 -->
          <!-- CodeForce:https://codeforces.com/profile/bappa  -->
     </td>
@@ -91,7 +93,7 @@
     </tr>
     <tr>
       <td>🔰JavaScript Programming</a></td>
-      <td>Write code and many concept of js is implemented with 10+ dom projects</td>
+      <td>Write code and many concepts of js is implemented with 10+ dom projects</td>
       <td>
         <a href="https://github.com/bappasahabapi/javaScript-problemSolving" target="_blank">1.JavaScript-problemSolving</a><br>
         <a href="https://github.com/bappasahabapi/JavaScript-A-Z" target="_blank">2. JavaScript A-Z</a><br>
@@ -233,6 +235,44 @@
       <td>done<br></td>
     </tr>
 </td>
+  </tbody>
+</table>
+
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Testing Project Repo </b></td>
+      <td><b>Next js Projects</b></td>
+      <td><b>Prisma Backened</b></td>
+      <td><b>Postgres Backened</b></td>
+      <td><b>MongoDb Backened</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td > 
+        <a href="https://github.com/bappasahabapi/cypress-basic" target="_blank">1. Cypress-Basic </a></br>
+        <a href="https://github.com/bappasahabapi/Swagger-node-express-js" target="_blank">2. Swagger-Api </a></br>
+        <a href="https://github.com/bappasahabapi/React-testing-basic-of-code-evulation" target="_blank">3. React-testing-basic-js </a></br>
+        <a href="https://github.com/bappasahabapi/React-testing-free-code-camp" target="_blank">4. React-testing-ts </a></br>
+        <a href="https://github.com/bappasahabapi/React-Testing-birthday-reminder" target="_blank">5. Testing-birthday-reminder </a></br>
+        <a href="https://github.com/bappasahabapi/Redux-toolkit-testing--mos" target="_blank">6. React-toolkit-testing </a></br>
+        <a href="https://github.com/bappasahabapi/testing-vitest-01" target="_blank">7. Testing-Vitest </a></br>
+    </td>
+      <td>Upcomming...<br></td>
+      <td>Upcomming...<br></td>
+     </td>
+      <td>Upcomming...<br></td>
+      <td>
+        <a href="https://github.com/bappasahabapi/MongoDB-" target="_blank">🥭 MongoDb Connection </a></br>
+        <a href="https://github.com/bappasahabapi/backened-express-mondoDB-connection" target="_blank">🥭 Node Express MongoDb Connection </a></br>
+        <a href="https://github.com/bappasahabapi/mongodb-modular-pattern" target="_blank">🥭 MongoDb Modular Pattern </a></br>
+        <a href="" target="_blank">🥭 MongoDb CRUD Operation </a></br>
+    </td>
+
+
+
   </tbody>
 </table>
 
