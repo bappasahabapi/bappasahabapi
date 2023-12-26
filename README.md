@@ -96,7 +96,7 @@
       <td>Write code and many concepts of js is implemented with 10+ dom projects</td>
       <td>
         <a href="https://github.com/bappasahabapi/javaScript-problemSolving" target="_blank">1.JavaScript-problemSolving</a><br>
-        <a href="https://github.com/bappasahabapi/JavaScript-A-Z" target="_blank">2. JavaScript A-Z</a><br>
+<!--         <a href="https://github.com/bappasahabapi/JavaScript-A-Z" target="_blank">2. JavaScript A-Z</a><br> -->
         <!-- <a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank">Interview JavaScript:</a><br> -->
     </td>
     </tr>
@@ -329,7 +329,7 @@
   </tbody>
 </table>
 <!-- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂  DOM IMPLEMENTING
 
 <!-- [0. Phone Shop](https://bd-phone.netlify.app/)
  
