@@ -301,6 +301,12 @@
   </thead>
   <tbody>
      <tr>
+      <td > <a href="https://github.com/bappasahabapi/javaScript-problemSolving/tree/main/00-DOM-js/003-tik-tak-toy" target="_blank">0. Tic Tac Toe </a></td>
+      <td>Game</td>
+      <td>Done</td>
+      <td>Learing purpose</td>
+    </tr>
+     <tr>
       <td > <a href="https://bd-phone.netlify.app/" target="_blank">1. Phone Shop </a></td>
       <td>E-commerse</td>
       <td>Done</td>
