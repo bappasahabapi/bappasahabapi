@@ -1,12 +1,24 @@
 
-<!-- ### [🎡 Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262) 
+![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p>
+<p > 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 ..... </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
- ![Github Banner](bappa.png) 
- 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 .....
+
+
+<br/>
+
+
+
+<!-- <!-- ### [🎡 Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262)  -->
+
 
 <!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="asfak00" /> </p>
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p> -->
+
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 </a></strong> || <strong align="center"> </br>
 <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >📜 𝐑𝐞𝐬𝐮𝐦𝐞</a>
@@ -24,7 +36,6 @@
 <!-- _In a short,_ -->
 <!-- Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me. -->
 👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## 🎧 Competitive-Programming: -->
 ---
