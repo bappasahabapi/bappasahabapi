@@ -56,7 +56,7 @@
 </p>
 </br>
 
-### 🟩 My Coding Experience
+### 🪴🟩 My Coding Experience
 
 <table>
   <thead align="center">
@@ -207,7 +207,7 @@
 
 [3. Thakurgaon-Hospital:](https://thakurgaon-hospital.web.app/) -->
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
+### 🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
 <table>
   <thead align="center">
@@ -259,6 +259,41 @@
 </td>
   </tbody>
 </table>
+
+### 🪴🟩 Next js 14 Projects:
+
+<table>
+<thead align="center">
+    <tr border: none;>
+      <td><b> Project Name 🟢 Live </b></td>
+      <td><b>Git Repository</b></td>
+      <td><b>Description</b></td>
+      <td><b>Remarks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+        <tr>
+         <td > <a href="https://nextjs-14-documentation-app.vercel.app/" target="_blank">1. Documentation App [ ] </a></br></td > 
+         <td><a href="https://github.com/bappasahabapi/nextjs-14-documentation-app" target="_blank">Repo </a></br></td>  
+            <td> - Routing, Defining Routes, Pages and Layouts ,Linking and Navigating,Loading UI and Streaming,Error Handling,Loading Redirecting </td> 
+        <td>Assignment Task Implementation</td>
+        </tr>
+        <tr>
+         <td > 2. Photo Gallary [ ] </br></td > 
+         <td><a href="https://github.com/bappasahabapi/react-vite-2024/tree/r8-PhotoGallary" target="_blank">Repo </a></br></td>  
+            <td> Handle Cookies, Handle Rputes GET,POST,PUT,DELETE </td> 
+        <td>Assignment Task Implementation</td>
+        </tr>
+        <tr>
+         <td > 3. Weather Dashboard [ ] </br></td > 
+         <td><a href="https://github.com/bappasahabapi/react-vite-2024/tree/main" target="_blank">Repo </a></br></td>  
+            <td> Weather Related Data Fetching ... </td> 
+        <td>Assignment Task Implementation</td>
+        </tr>
+  </tbody>
+</table>
+
+#### 🟩 Backend and Testing and Documentation Projects:
 
 <table>
   <thead align="center">
@@ -460,7 +495,7 @@
   </tbody>
 </table>
 
-### 🟩 My Upcomming Projects:
+### 🪴🟩 My Upcomming Projects:
 
 <table>
   <thead align="center">
