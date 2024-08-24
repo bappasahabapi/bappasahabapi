@@ -1,12 +1,16 @@
 ![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p>
 
 <p > 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 ..... </p>
+
+**Software Engineer | Web Developer | Tech Enthusiast**
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <br/>
+
 
 <!-- <!-- # [🎡 Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262)  -->
 
@@ -71,7 +75,7 @@
       <td>🎧 Competitive-Programming</td>
       <td> Here I implemented of Basic data structure of C++ like 'Tower of hanoi, 'Searching algo','Sorting algo', Linked List and many more. Problem solving using algorithm. Online Judge solved </td>
       <td>
-        <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-" target="_blank"> 1. ProblemSet-Solving Code</a><br>
+        <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-" target="_blank"> 1. Competitive-Programming-Solving Code</a><br>
         <a href="https://www.beecrowd.com.br/judge/en/profile/209551" target="_blank">2. URI/BeeCrowed-Online-Judge</a><br>
         <a href="https://github.com/bappasahabapi/Level-1-ProblemSet-div-3-/tree/main/00-Algorithm" target="_blank">3. Algorithm code with c++</a><br>
          <!-- <a href="https://www.hackerrank.com/bappasaha161" target="_blank"> 4. HakerRank </a><br>
@@ -199,20 +203,18 @@
 
 ## [👉🎡 Click here for all FullStact Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)
 
-<!-- [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
-[1. BD-Tour](https://bd-tour-7c15d.web.app/)
 
-[2. iPhone-Bd:](https://iphone-bd.web.app/)
+###    🪴🟩 React Projects -- 01 
+<details>
+    <summary>Click 👉 <b>𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</b></summary>
 
-[3. Thakurgaon-Hospital:](https://thakurgaon-hospital.web.app/) -->
-
-### 🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
+🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>Project Name 🟢 Live🪴</b></td>
+    <tr style="background-color: aqua; color: Black;">
+      <td><b>Project Name 🟢 Live</b></td>
       <td><b>Features</b></td>
       <td><b>Git Repository</b></td>
       <td><b>Remarks</b></td>
@@ -260,7 +262,13 @@
   </tbody>
 </table>
 
-### 🪴🟩 Next js 14 Projects:
+</details>
+
+---  
+
+### 🪴🟩 Next js 14 Projects -- 02
+<details>
+<summary>Click 👉 Next js 14 Projects:</summary>
 
 <table>
 <thead align="center">
@@ -292,7 +300,10 @@
         </tr>
   </tbody>
 </table>
+</details>
 
+
+--- 
 #### 🟩 Backend and Testing and Documentation Projects:
 
 <table>
