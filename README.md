@@ -1,39 +1,35 @@
 ![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
+
 <p > 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 ..... </p>
 
 **Software Engineer | Web Developer | Tech Enthusiast**
 
+[📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappa-saha.web.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
+
+[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel")
+
+<b>[👉 🔍 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)</b>
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
-<br/>
 
 
-<!-- <!-- # [🎡 Search any project in my Github:](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit#gid=2003874262)  -->
 
-<!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='22' height='22'></a> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p> -->
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
+<!-- <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a>
 <strong align="center"> <a align="center" href="https://bappa-saha.web.app" target="_blank"  rel="noopener noreferrer">𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 </a></strong> || <strong align="center"> </br>
 <a  align="center" href="https://drive.google.com/file/d/1ESQYoqqj6ewqmSbYsXpRyO0CsXa3y5BD/view"  rel="noopener noreferrer" >📜 𝐑𝐞𝐬𝐮𝐦𝐞</a>
-</strong>
+</strong> -->
 
-<!-- ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app) -->
-
-#### ✨[ My Blog Sites:](https://dev.to/bappasahabapi)
-
-🦸🏿‍♂️[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel")
+<!-- 
+🦸🏿‍♂️[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel") -->
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
 
 <!-- </br> -->
 
-## [👉🎡 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)
+<!-- ## [👉🎡 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links) -->
 
 #### A passionate frontend from 🇧🇩 Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
 
@@ -49,7 +45,7 @@
 <!-- ### 🟡🇧🇩 HakerRank: https://www.hackerrank.com/bappasaha161 -->
 <!-- ### 🟡🇧🇩 CodeForce:https://codeforces.com/profile/bappa -->
 
-## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
+<!-- ## 🟩 ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:
 
 <p align="left">
 <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=bappasaha161@gmail.com"><img width="48" height="48" src="https://cdn.dribbble.com/users/2118564/screenshots/4240923/gmail-sent-animation.gif"/></a>
@@ -58,7 +54,7 @@
 <a href = "https://www.instagram.com/bappasahabapi/"><img width="48" height="48"  src="https://i.giphy.com/media/3oEjHFnRdGNWCbCOXK/200w.webp"/></a>
 <a href = "https://www.youtube.com/watch?v=ov5eTtZuQLI"><img width="48" height="48" src="https://i.giphy.com/media/tZ0J66Y9fOzG8/200w.webp"/></a>
 </p>
-</br>
+</br> -->
 
 ### 🪴🟩 My Coding Experience
 
