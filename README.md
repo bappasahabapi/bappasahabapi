@@ -160,7 +160,7 @@
 # 🟩 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺 & 𝗢𝗻𝗹𝗶𝗻𝗲 𝗝𝘂𝗱𝗴𝗲:
 ## [🟡 Algorithm-cpp:](https://github.com/bappasahabapi/Algorithm.cpp) -->
 
-## 🟩 ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ:
+<!-- ## 🟩 ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ: -->
 
 <!--
 </br>
@@ -191,11 +191,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bappasahabapi&show_icons=true&locale=en&layout=compact" alt="bappa-saha-bapi" /></p>
 
-## 🟩 𝗦𝗼𝗺𝗲 𝗼𝗳 𝗠𝘆 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
-
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")`
-🔹 I’m currently learning React js.
 
 ## [👉🎡 Click here for all FullStact Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)
 
@@ -299,8 +294,48 @@
 </details>
 
 
---- 
-#### 🟩 Backend and Testing and Documentation Projects:
+<!-- --- 
+### 🟩 Backend and Testing and Documentation Projects:
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Testing Project Repo </b></td>
+      <td><b>Next js Projects</b></td>
+      <td><b>Prisma Backened</b></td>
+      <td><b>Postgres Backened</b></td>
+      <td><b>MongoDb Backened</b></td>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+      <td > 
+        <a href="https://github.com/bappasahabapi/cypress-basic" target="_blank">1. Cypress-Basic </a></br>
+        <a href="https://github.com/bappasahabapi/Swagger-node-express-js" target="_blank">2. Swagger-Api </a></br>
+        <a href="https://github.com/bappasahabapi/React-testing-basic-of-code-evulation" target="_blank">3. React-testing-basic-js </a></br>
+        <a href="https://github.com/bappasahabapi/React-testing-free-code-camp" target="_blank">4. React-testing-ts </a></br>
+        <a href="https://github.com/bappasahabapi/React-Testing-birthday-reminder" target="_blank">5. Testing-birthday-reminder </a></br>
+        <a href="https://github.com/bappasahabapi/Redux-toolkit-testing--mos" target="_blank">6. React-toolkit-testing </a></br>
+        <a href="https://github.com/bappasahabapi/testing-vitest-01" target="_blank">7. Testing-Vitest </a></br>
+    </td>
+      <td>Upcomming...<br></td>
+      <td>Upcomming...<br></td>
+     </td>
+      <td>Upcomming...<br></td>
+      <td>
+        <a href="https://github.com/bappasahabapi/MongoDB-" target="_blank">🥭 MongoDb Connection </a></br>
+        <a href="https://github.com/bappasahabapi/backened-express-mondoDB-connection" target="_blank">🥭 Node Express MongoDb Connection </a></br>
+        <a href="https://github.com/bappasahabapi/mongodb-modular-pattern" target="_blank">🥭 MongoDb Modular Pattern </a></br>
+        <a href="" target="_blank">🥭 MongoDb CRUD Operation </a></br>
+    </td>
+
+  </tbody>
+</table> -->
+
+### 🟩 Backend & [Testing and Documentation] Projects -- 03
+
+<details>
+<summary>Cypress + Swagger + MongoDB + Postgresql + Prisma + Redis</summary>
 
 <table>
   <thead align="center">
@@ -336,6 +371,14 @@
 
   </tbody>
 </table>
+
+</details>
+
+---
+### 🟩  JS 🅿🆁🅾🅹🅴🅲🆃🆂 --04
+
+<details>
+  <summary>👉 JS 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 🅿🆁🅾🅹🅴🅲🆃🆂
 
@@ -394,30 +437,19 @@
 </td>
   </tbody>
 </table>
-<!-- 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>🅿🆁🅾🅹🅴🅲🆃🆂  DOM IMPLEMENTING
 
-<!-- [0. Phone Shop](https://bd-phone.netlify.app/)
+</details>
 
-[1. Mackbook Shop](https://mackbook-m1-bappa.netlify.app/)
+---
 
-[2. Pin-Matcher-OTP](https://bappasahabapi0.github.io/pin-matcher-js/)
+### 🟩  Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂 --05
 
-[3. Shopping-Cart](https://bappasahabapi0.github.io/shopping-cart-js/)
+<details>
+  <summary>👉 Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
 
-[4. Bank-diposit-withdraw](https://bappasahabapi0.github.io/bank-deposit-withdraw/banking.html)
-
-[5. Bappa-blog site](https://bappablog.netlify.app/) -->
 
  <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
 
-<!-- [1. Honda-Shop](https://honda-cbr-bootstarp-assignment.netlify.app/)
-
-[2. GOGA-BAPPA](https://bappabappa.github.io/ProjectBS4gnoomSite/index.html)
-
-[3. CSE-পৌরাণিক](https://bappabappa.github.io/ProjectBS4PouranicSite/share-head-section)
-
-[4. portfolio cuda](https://portfolio-bappa.netlify.app/) -->
 <table>
   <thead align="center">
     <tr border: none;>
@@ -452,17 +484,20 @@
   </tbody>
 </table>
 
+
+</details>
+
+---
+
+### 🟩  HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂 --06
+
+<details>
+  <summary>👉 HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
+
+
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
 
-<!-- [1. Football website](https://footbal-bappa.netlify.app/)
 
-[2. Batch-pouranic-Name](https://batch-pouranic.netlify.app/)
-
-[3. HTML LAYOUT](https://basic-html-layout-by-bappa.netlify.app/)
-
-[4. ProjectCSSNavbarMostWanted](https://bappabappa.github.io/ProjectCSSNavbarMostWanted/)
-
-[5. LeaderBoard](https://bappabappa.github.io/bappa-css3-leaderboard-project/) -->
 
 <table>
   <thead align="center">
@@ -502,8 +537,16 @@
   </tbody>
 </table>
 
-### 🪴🟩 My Upcomming Projects:
+</details>
 
+---
+
+
+
+### 🪴🟩 My Upcomming Projects --07
+
+<details>
+  <summary>👉 Upcomming Redux Projects</summary>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -553,6 +596,11 @@
 </td>
   </tbody>
 </table>
+
+
+</details>
+
+---
 
 ## 🟩 𝐋𝐚𝐭𝐞𝐬𝐭 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐕𝐢𝐝𝐞𝐨𝐬
 
