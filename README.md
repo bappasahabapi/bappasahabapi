@@ -1,4 +1,4 @@
-![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> </p>
+![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> |[ 🏆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒐𝒂𝒅𝒎𝒂𝒑](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit?gid=2003874262#gid=2003874262) </p> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 [📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappa-saha.web.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
 
-[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel")
+[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel") 
 
 <b>[👉 🔍 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)</b>
 
