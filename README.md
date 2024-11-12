@@ -256,9 +256,9 @@
 
 
 
-###    🪴🟩 React Projects -- 01 
+<!-- ###    🪴🟩 React Projects -- 01  -->
 <details>
-    <summary>Click 👉 <b>𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</b></summary>
+    <summary>Click 👉 <b>🪴🟩 𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -- 01</b></summary>
 
 🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
@@ -335,12 +335,11 @@
 </table>
 
 </details>
+</br>
 
----  
-
-### 🪴🟩 Next js 14 Projects -- 02
+<!-- ### 🪴🟩 Next js 14 Projects -- 02 -->
 <details>
-<summary>Click 👉 Next js 14 Projects:</summary>
+<summary>Click 👉 🪴🟩 Next js 14 Projects:</summary>
 
 <table>
 <thead align="center">
@@ -413,10 +412,12 @@
   </tbody>
 </table> -->
 
-### 🟩 Backend & [Testing and Documentation] Projects -- 03
+<!-- ### 🟩 Backend & [Testing and Documentation] Projects -- 03 -->
+</br>
 
 <details>
-<summary>Cypress + Swagger + MongoDB + Postgresql + Prisma + Redis</summary>
+<summary>Click 👉  Backend & [Testing and Documentation] Projects -- 03
+</summary>
 
 <table>
   <thead align="center">
@@ -455,11 +456,11 @@
 
 </details>
 
----
-### 🟩  JS 🅿🆁🅾🅹🅴🅲🆃🆂 --04
+</br>
+<!-- ### 🟩  JS 🅿🆁🅾🅹🅴🅲🆃🆂 --04 -->
 
 <details>
-  <summary>👉 JS 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
+  <summary>👉  JavaScript 🅿🆁🅾🅹🅴🅲🆃🆂 --04</summary>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 🅿🆁🅾🅹🅴🅲🆃🆂
 
@@ -521,12 +522,12 @@
 
 </details>
 
----
+<!-- --- -->
 
-### 🟩  Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂 --05
-
+<!-- ### 🟩  Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂 --05 -->
+</br>
 <details>
-  <summary>👉 Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
+  <summary>👉 Bootstrap 🅿🆁🅾🅹🅴🅲🆃🆂 --05</summary>
 
 
  <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
@@ -568,12 +569,12 @@
 
 </details>
 
----
 
-### 🟩  HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂 --06
 
+<!-- ### 🟩  HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂 --06 -->
+</br>
 <details>
-  <summary>👉 HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂</summary>
+  <summary>👉 HTML CSS 🅿🆁🅾🅹🅴🅲🆃🆂 --06</summary>
 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>🅿🆁🅾🅹🅴🅲🆃🆂
@@ -620,14 +621,14 @@
 
 </details>
 
----
+<!-- --- -->
 
 
 
-### 🪴🟩 My Upcomming Projects --07
-
+<!-- ### 🪴🟩 My Upcomming Projects --07 -->
+</br>
 <details>
-  <summary>👉 Upcomming Redux Projects</summary>
+  <summary>👉 Upcomming Redux Projects --07</summary>
 <table>
   <thead align="center">
     <tr border: none;>
