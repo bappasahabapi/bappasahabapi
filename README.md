@@ -273,6 +273,7 @@ I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content C
 
 ##  🪴 Live Projects
 
+`🐳 Enterprise Level `
 
 [![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
 [![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
@@ -280,16 +281,16 @@ I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content C
 
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
-`BEG`
+`🐋 MID `
+
+[![BD-Tour](https://img.shields.io/badge/-🫒%20BD--Tour-5672cd?style=flat)](https://bd-tour-7c15d.web.app/)  [![Iphone-BD](https://img.shields.io/badge/-🫒%20Iphone--BD-5672cd?style=flat)](https://iphone-bd.web.app/)  [![Thakurgaon-Hospital](https://img.shields.io/badge/-🫒%20Thakurgaon--Hospital-5672cd?style=flat)](https://thakurgaon-hospital.web.app/)  [![Thakurgaon-Portal](https://img.shields.io/badge/-🫒%20Thakurgaon--Portal-5672cd?style=flat)](https://thakurgaon-portal.web.app/) 
+
+
+`🐟 BEG`
 
 [![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
-`MID `
-
-[![BD-Tour](https://img.shields.io/badge/-🫒%20BD--Tour-5672cd?style=flat)](https://bd-tour-7c15d.web.app/)  [![Iphone-BD](https://img.shields.io/badge/-🫒%20Iphone--BD-5672cd?style=flat)](https://iphone-bd.web.app/)  [![Thakurgaon-Hospital](https://img.shields.io/badge/-🫒%20Thakurgaon--Hospital-5672cd?style=flat)](https://thakurgaon-hospital.web.app/)  [![Thakurgaon-Portal](https://img.shields.io/badge/-🫒%20Thakurgaon--Portal-5672cd?style=flat)](https://thakurgaon-portal.web.app/)  
-
-
-
+ 
 
 <!-- ###    🪴🟩 React Projects -- 01  -->
 <details>
