@@ -1,16 +1,18 @@
-![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" /> |[ 🏆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒐𝒂𝒅𝒎𝒂𝒑](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit?gid=2003874262#gid=2003874262) </p> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
-
-<p > 𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝒹𝓇𝑒𝒶𝓂𝓎 𝒷𝑜𝓎 𝓌𝒽𝑜𝓈𝑒 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐵𝒶𝓅𝓅𝒶 ..... </p>
-
-**Software Engineer | Web Developer | Tech Enthusiast**
+![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" />  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjrVRcccCy_U5rKOVnxEOag?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic) | [ 🏆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒐𝒂𝒅𝒎𝒂𝒑](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit?gid=2003874262#gid=2003874262)
+</p> 
 
 [📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappasaha.vercel.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
 
-[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel") 
+**Software Engineer | Web Developer | Tech Enthusiast**
 
 <b>[👉 🔍 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)</b>
+
+
+
+
+
+
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -25,18 +27,35 @@
 <!-- 
 🦸🏿‍♂️[![Youtube Channel](https://img.shields.io/badge/bappa%20saha%20m1-Subscribe-red)](https://www.youtube.com/watch?v=ov5eTtZuQLI "My youtube Channel") -->
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br>
+<!-- <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="410" height="200" /></br></br> -->
 
 <!-- </br> -->
 
 <!-- ## [👉🎡 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links) -->
 
-#### A passionate frontend from 🇧🇩 Bangladesh & Content Creator on [Youtube](https://www.youtube.com/watch?v=ov5eTtZuQLI). And also ICT instructor at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) . I Spend most of time coding outstanding projects or recording tutorials.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-<!-- _In a short,_ -->
-<!-- Me an eccedentesiast boy!!! don't like to introduce myself and never prove to be good enough for everyone, But I'm the best for them who understand me. -->
+**Hello,**  
+I am **Bappa Saha**, currently working as a **Software Engineer** at [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises.  
 
-👀 I’m interested in web frameworks and love to make code in JavaScript and c++😁
+I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content Creator** on [YouTube](https://www.youtube.com/watch?v=ov5eTtZuQLI). Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd). I've completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech I'm also fairly invested in movies, reading, playing and travelling . 
+
+**Most of my time** is spent coding outstanding projects or recording tutorials to share knowledge and inspire others.
+
+> 💡 I'm open to new opportunities in the domain of frontend engineering, systems, and micro-services.
+
+
+### 🪴 My Tech! 
+- **Languages** - `C++`  `Javascript`  `SQL` 
+- **Backend** - `Node.js` `Express.js`
+- **Frontend** - `React js Nextjs`  `Redux`
+- **Database** - `PostgreSQL`  `MongoDB`
+- **Tools** - `Git` 
+- **Testing** - `Cypress` `Postman`
+- **Infra** - `Docker` `Linux`
+- **Documentation** - `Swagger OAS` `Readme.md`
+
+
 
 ## <!-- ## 🎧 Competitive-Programming: -->
 
@@ -252,10 +271,18 @@
   </tr>
 </table>
 
+##  🪴 Live Projects
+
+
+[![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
+[![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
 
 
 
-## [👉🎡 Click here for all FullStact Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)
+
+
+
+<!-- ## [👉🎡 Click here for all FullStact Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links) -->
 
 - Recent Working Project : University Management 
   
