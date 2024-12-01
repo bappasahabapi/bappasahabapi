@@ -36,11 +36,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 **Hello,**  
-I am **Bappa Saha**, currently working as a **Software Engineer** at [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises.  
+I am **Bappa Saha**, currently working as a **Software Engineer** at [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises. 
 
-I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content Creator** on [YouTube](https://www.youtube.com/watch?v=ov5eTtZuQLI). Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd). I've completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech I'm also fairly invested in movies, reading, playing and travelling . 
-
-**Most of my time** is spent coding outstanding projects or recording tutorials to share knowledge and inspire others.
+Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) and **Content Creator** on [YouTube](https://www.youtube.com/watch?v=ov5eTtZuQLI). I've completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech I'm also fairly invested in movies, reading, playing and travelling .**Most of my time** is spent coding outstanding projects or recording tutorials to share knowledge and inspire others.
 
 > 💡 I'm open to new opportunities in the domain of frontend engineering, systems, and micro-services.
 
@@ -290,13 +288,6 @@ I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content C
 
 [![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
- 
-
-<!-- ###    🪴🟩 React Projects -- 01  -->
-<details>
-    <summary>Click 👉 <b>🪴🟩 𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -- 01</b></summary>
-
-🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
 <b>Working Repository</b>
 <table>
@@ -319,6 +310,15 @@ I am a passionate front-end developer from 🇧🇩 Bangladesh and a **Content C
 
   </tr>
 </table>
+ 
+
+<!-- ###    🪴🟩 React Projects -- 01  -->
+<details>
+    <summary>Click 👉 <b>🪴🟩 𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -- 01</b></summary>
+
+🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
+
+
 <table>
   <thead align="center">
     <tr style="background-color: aqua; color: Black;">
