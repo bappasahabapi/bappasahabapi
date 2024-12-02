@@ -1,5 +1,15 @@
-![Github Banner](bappa.png) <p align="left"> <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" />  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjrVRcccCy_U5rKOVnxEOag?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic) | [ 🏆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒐𝒂𝒅𝒎𝒂𝒑](https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit?gid=2003874262#gid=2003874262)
-</p> 
+![Github Banner](bappa.png)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" />
+  <a href="https://www.youtube.com/@bappasahabapii" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCjrVRcccCy_U5rKOVnxEOag?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=plastic" alt="YouTube Channel Subscribers" />
+  </a>
+  | 
+  <a href="https://docs.google.com/spreadsheets/d/1MBXwR8tweXomw-iDjiiWFAZovhVCEC7w_asXQzT0pYE/edit?gid=2003874262#gid=2003874262" target="_blank">
+    🏆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑹𝒐𝒂𝒅𝒎𝒂𝒑
+  </a>
+</p>
+
 
 [📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappasaha.vercel.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
 
