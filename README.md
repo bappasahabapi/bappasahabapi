@@ -324,13 +324,10 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=bappasahabapi&repo=chat-applicaton&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
       </a>
     </td>
-    <td>
-      <a href="https://github.com/bappasahabapi/video-website-rtk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bappasahabapi&repo=video-website-rtk&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-      </a>
-    </td>
+    
   </tr>
 </table>
+
 
  
 
