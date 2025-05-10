@@ -46,7 +46,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 **Hello,**  
-I am **Bappa Saha**, currently working as a **Software Engineer** at [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises. 
+I am **Bappa Saha**, currently working as a **Software Engineer** at [Blue Flower Media](https://www.blueflowermedia.com/). and ex-employee of  [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises. 
 
 Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) and **Content Creator** on [YouTube](https://youtu.be/FW3_1evyZXs?si=NVyvL141QgdWWR9e). I've completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech I'm also fairly invested in movies, reading, playing and traveling.
 
