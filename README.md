@@ -54,8 +54,8 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 
 ### 🪴 My Tech! 
-- **Languages** - `C++`  `Javascript`  `SQL` 
-- **Backend** - `Node.js` `Express.js`
+- **Languages** - `C++`  `Go` `Javascript` `TypeScript` `SQL` 
+- **Backend** - `Node.js` `Express.js` `Gin`
 - **Frontend** - `React js Nextjs`  `Redux`
 - **Database** - `PostgreSQL`  `MongoDB`
 - **Tools** - `Git` 
