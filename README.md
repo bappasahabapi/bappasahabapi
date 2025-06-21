@@ -11,7 +11,7 @@
 </p>
 
 
-[📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappasaha.vercel.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
+[📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappasahabapi.vercel.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
 
 **Software Engineer | Web Developer | Tech Enthusiast**
 
