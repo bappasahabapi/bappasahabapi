@@ -473,7 +473,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 <!-- ### 🟩 Backend & [Testing and Documentation] Projects -- 03 -->
 </br>
 
-<details>
+<!-- </details> -->
 <summary>Click 👉  Backend & [Testing and Documentation] Projects -- 03
 </summary>
 
@@ -512,7 +512,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
   </tbody>
 </table>
 
-</details>
+<!-- </details> -->
 
 </br>
 <!-- ### 🟩  JS 🅿🆁🅾🅹🅴🅲🆃🆂 --04 -->
