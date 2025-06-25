@@ -335,7 +335,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
  
 
 <!-- ###    🪴🟩 React Projects -- 01  -->
-<details>
+<!-- <details> -->
     <summary>Click 👉 <b>🪴🟩 𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -- 01</b></summary>
 
 🪴[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
@@ -392,11 +392,11 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
   </tbody>
 </table>
 
-</details>
+<!-- </details> -->
 </br>
 
 <!-- ### 🪴🟩 Next js 14 Projects -- 02 -->
-<details>
+<!-- <details> -->
 <summary>Click 👉 🪴🟩 Next js 14 Projects:</summary>
 
 <table>
@@ -429,7 +429,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
         </tr>
   </tbody>
 </table>
-</details>
+<!-- </details> -->
 
 
 <!-- --- 
@@ -517,7 +517,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 </br>
 <!-- ### 🟩  JS 🅿🆁🅾🅹🅴🅲🆃🆂 --04 -->
 
-<details>
+<!-- </details> -->
   <summary>👉  JavaScript 🅿🆁🅾🅹🅴🅲🆃🆂 --04</summary>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 🅿🆁🅾🅹🅴🅲🆃🆂
@@ -578,7 +578,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
   </tbody>
 </table>
 
-</details>
+<!-- </details> -->
 
 <!-- --- -->
 
@@ -685,7 +685,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 <!-- ### 🪴🟩 My Upcomming Projects --07 -->
 </br>
-<details>
+<!-- </details> -->
   <summary>👉 Upcomming Redux Projects --07</summary>
 <table>
   <thead align="center">
@@ -738,7 +738,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 </table>
 
 
-</details>
+<!-- </details> -->
 
 ---
 
