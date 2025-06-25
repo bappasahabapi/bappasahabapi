@@ -334,7 +334,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
  
 
-<!-- ###    🪴🟩 React Projects -- 01  -->
+###    🪴🟩 React Projects -- 01  -->
 <!-- <details> -->
     <summary>Click 👉 <b>🪴🟩 𝐑𝐞𝐚𝐜𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 -- 01</b></summary>
 
@@ -395,7 +395,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 <!-- </details> -->
 </br>
 
-<!-- ### 🪴🟩 Next js 14 Projects -- 02 -->
+ ### 🪴🟩 Next js 14 Projects -- 02 -->
 <!-- <details> -->
 <summary>Click 👉 🪴🟩 Next js 14 Projects:</summary>
 
@@ -433,7 +433,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 
 <!-- --- 
-### 🟩 Backend and Testing and Documentation Projects:
+ 🟩 Backend and Testing and Documentation Projects:
 
 <table>
   <thead align="center">
@@ -470,7 +470,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
   </tbody>
 </table> -->
 
-<!-- ### 🟩 Backend & [Testing and Documentation] Projects -- 03 -->
+ ### 🟩 Backend & [Testing and Documentation] Projects -- 03 -->
 </br>
 
 <!-- </details> -->
