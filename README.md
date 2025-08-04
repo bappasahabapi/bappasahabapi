@@ -67,8 +67,8 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 | Role | Company | Duration | Description |
 |------|---------|----------|-------------|
-| **Software Engineer (L-1)** | [Blue Flower Media](https://blueflowermedia.com) | * Dec,2024 – Present* | - Develop software solutions for SMEs<br>- Collaborate with cross-functional teams to deliver robust, scalable applications |
-| **Software Engineer (L-1)** | [Arab Interface Technology](https://arabinterfacetech.com/about-us/) | *Nov 2024 – Dec 2024* (Part Time) | - Developed digital services with a team of programmers, designers, and marketers<br>- Delivered tailored IT solutions to clients in the Middle East |
+| **Software Engineer:L-1** | [Blue Flower Media](https://blueflowermedia.com) | *Dec,2024 – Present* | - Develop software solutions for SMEs<br>- Collaborate with cross-functional teams to deliver robust, scalable applications |
+| **Software Engineer:L-1** | [Arab Interface Technology](https://arabinterfacetech.com/about-us/) | *Nov 2024 – Dec 2024* (Part Time) | - Developed digital services with a team of programmers, designers, and marketers<br>- Delivered tailored IT solutions to clients in the Middle East |
 | **Software Engineer**  | [Spectrum Engineering Consortium (Pvt.) Ltd.](https://spectrum-bd.com) | *May,2022 – Oct,2024* | - Contributed to enterprise software projects<br>- Focused on performance optimization and client support |
 | **Front-End Engineer & ICT Instructor** | [বন্দি পাঠশালা](https://www.bondipathshala.education/bn) | *Aug,2020 – Mar,2022* | - Built a university management prototype using the **MERN** stack<br>- Instructed students in ICT<br>- Created educational content |
 
