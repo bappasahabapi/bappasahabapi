@@ -1,3 +1,7 @@
+
+
+
+
 ![Github Banner](bappa.png)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" />
@@ -230,6 +234,28 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bappasahabapi&show_icons=true&locale=en&layout=compact" alt="bappa-saha-bapi" /></p>
 
+##  🪴 Live Projects
+
+`🐳 Enterprise Level `
+
+[![Cliniva Sys](https://img.shields.io/badge/-Cliniva%20SYS-5672cd?style=flat)](https://testing.cliniva.online)
+[![WorkOwl Project Management](https://img.shields.io/badge/-WorkOwl-5672cd?style=flat)](https://app.workowl.io/)
+[![Cluster Addmission System](https://img.shields.io/badge/-Culster%20Addmission%20System-5672cd?style=flat)](https://acas.edu.bd/)
+[![Bondi Pathshala LMS](https://img.shields.io/badge/-Bondi%20Pathshala%20LMS-5672cd?style=flat)](https://www.bondipathshala.education/bn)
+[![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
+[![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
+
+
+[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
+
+`🐋 MID `
+
+[![BD-Tour](https://img.shields.io/badge/-🫒%20BD--Tour-5672cd?style=flat)](https://bd-tour-7c15d.web.app/)  [![Iphone-BD](https://img.shields.io/badge/-🫒%20Iphone--BD-5672cd?style=flat)](https://iphone-bd.web.app/)  [![Thakurgaon-Hospital](https://img.shields.io/badge/-🫒%20Thakurgaon--Hospital-5672cd?style=flat)](https://thakurgaon-hospital.web.app/)  [![Thakurgaon-Portal](https://img.shields.io/badge/-🫒%20Thakurgaon--Portal-5672cd?style=flat)](https://thakurgaon-portal.web.app/) 
+
+
+`🐟 BEG`
+
+[![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
 ## 📌 Pinned Repositories
 
@@ -288,28 +314,6 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
   </tr>
 </table>
 
-##  🪴 Live Projects
-
-`🐳 Enterprise Level `
-
-[![Cliniva Sys](https://img.shields.io/badge/-Cliniva%20SYS-5672cd?style=flat)](https://testing.cliniva.online)
-[![WorkOwl Project Management](https://img.shields.io/badge/-WorkOwl-5672cd?style=flat)](https://app.workowl.io/)
-[![Cluster Addmission System](https://img.shields.io/badge/-Culster%20Addmission%20System-5672cd?style=flat)](https://acas.edu.bd/)
-[![Bondi Pathshala LMS](https://img.shields.io/badge/-Bondi%20Pathshala%20LMS-5672cd?style=flat)](https://www.bondipathshala.education/bn)
-[![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
-[![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
-
-
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
-
-`🐋 MID `
-
-[![BD-Tour](https://img.shields.io/badge/-🫒%20BD--Tour-5672cd?style=flat)](https://bd-tour-7c15d.web.app/)  [![Iphone-BD](https://img.shields.io/badge/-🫒%20Iphone--BD-5672cd?style=flat)](https://iphone-bd.web.app/)  [![Thakurgaon-Hospital](https://img.shields.io/badge/-🫒%20Thakurgaon--Hospital-5672cd?style=flat)](https://thakurgaon-hospital.web.app/)  [![Thakurgaon-Portal](https://img.shields.io/badge/-🫒%20Thakurgaon--Portal-5672cd?style=flat)](https://thakurgaon-portal.web.app/) 
-
-
-`🐟 BEG`
-
-[![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
 
 <b>Working Repository</b>
