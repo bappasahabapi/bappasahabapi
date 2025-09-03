@@ -261,46 +261,11 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 [![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
-### YouTube Videos
 
-<p>
-  <a href="https://www.youtube.com/watch?v=GvHXALZtQo8">
-    <img src="https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5" 
-    alt="Fire typing effect" style="display:inline-block; margin:5px;">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=FW3_1evyZXs">
-    <img src="https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5" 
-    alt="University Management" style="display:inline-block; margin:5px;">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=SbuLtsX0lAc">
-    <img src="https://ytcards.demolab.com/?id=SbuLtsX0lAc&title=%F0%9F%94%A5+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%F0%9F%94%A5+Event+Booking+REST+API+Using+Go&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5" 
-    alt="Event Booking API" style="display:inline-block; margin:5px;">
-  </a>
-</p>
-
-<p>
-  <a href="https://www.youtube.com/watch?v=yXH0OGScB2g">
-    <img src="https://ytcards.demolab.com/?id=yXH0OGScB2g&title=Problem+3%3A+Message+Processing+with+Retry+Logic+%28Random+ID+Validation%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=300&border_radius=5" 
-    alt="Problem 3 Message Processing" style="display:inline-block; margin:5px;">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=D8FPYT-GJtc">
-    <img src="https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=%F0%9F%94%A5%E2%80%8DBig_O_Notation+Explained+in+Bangla+%E2%97%95&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5" 
-    alt="Big O Notation in Bangla" style="display:inline-block; margin:5px;">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=eWx1vq7FJAA">
-    <img src="https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=300&border_radius=5" 
-    alt="Problem 2 Inventory Management" style="display:inline-block; margin:5px;">
-  </a>
-</p>
-
-
+#
 
 ### Youtube Videos
-
+<!-- BEGIN YOUTUBE-CARDS -->
 [![🔥Fire typing effect on visual studio code 🔥🔥🔥](https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "🔥Fire typing effect on visual studio code 🔥🔥🔥")](https://www.youtube.com/watch?v=GvHXALZtQo8)
 [![University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js](https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=... "University Management")](
 https://www.youtube.com/watch?v=FW3_1evyZXs)
@@ -310,7 +275,9 @@ https://www.youtube.com/watch?v=yXH0OGScB2g)
 [![🔥 Big_O_Notation Explained in Bangla ⭕](https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=%F0%9F%94%A5%E2%80%8DBig_O_Notation+Explained+in+Bangla+%E2%97%95&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "Big O Notation Explained in Bangla")](
 https://www.youtube.com/watch?v=D8FPYT-GJtc)
 [![Problem 2: Inventory Management with Multiple Units](https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=300&border_radius=5 "Problem 2: Inventory Management with Multiple Units")](https://www.youtube.com/watch?v=eWx1vq7FJAA)
+<!-- END YOUTUBE-CARDS -->
 
+#
 
 ## 📌 Pinned Repositories
 
