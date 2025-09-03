@@ -1,27 +1,3 @@
-
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Portable Workstation](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
-[![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://ytcards.demolab.com/?id=meEXag1XCFw&title=Why+Everyone%27s+Switching+to+Rust+%28And+Why+You+Shouldn%27t%29&lang=en&timestamp=1755619274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
-[![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
-[![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
-[![My New PC // I have way too many.](https://ytcards.demolab.com/?id=m5rvhYKrIM4&title=My+New+PC+%2F%2F+I+have+way+too+many.&lang=en&timestamp=1753205655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=45 "My New PC // I have way too many.")](https://www.youtube.com/shorts/m5rvhYKrIM4)
-[![My Linux Ubuntu Setup for Software Development](https://ytcards.demolab.com/?id=T3sax7PB0vw&title=My+Linux+Ubuntu+Setup+for+Software+Development&lang=en&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "My Linux Ubuntu Setup for Software Development")](https://www.youtube.com/watch?v=T3sax7PB0vw)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
-
-
-
-
-
-
 ![Github Banner](bappa.png)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bappasahabapi&label=Profile%20views&color=0e75b6&style=flat" alt="bappasahabapi" />
@@ -281,16 +257,16 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🔥Fire typing effect on visual studio code 🔥🔥🔥](https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code+%F0%9F%94%A5%F0%9F%94%A5%F0%9F%94%A5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "🔥Fire typing effect on visual studio code 🔥🔥🔥")](https://www.youtube.com/watch?v=GvHXALZtQo8)
-[![University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js](https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js")](https://www.youtube.com/watch?v=FW3_1evyZXs)
-[![🔥 ❤️‍🔥 Event Booking REST API Using Go](https://ytcards.demolab.com/?id=SbuLtsX0lAc&title=%F0%9F%94%A5+%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%F0%9F%94%A5+Event+Booking+REST+API+Using+Go&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "🔥 ❤️‍🔥 Event Booking REST API Using Go")](https://www.youtube.com/watch?v=SbuLtsX0lAc)
-[![Problem 3: Message Processing with Retry Logic (Random ID Validation)](https://ytcards.demolab.com/?id=yXH0OGScB2g&title=Problem+3%3A+Message+Processing+with+Retry+Logic+%28Random+ID+Validation%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=300&border_radius=5 "Problem 3: Message Processing with Retry Logic (Random ID Validation)")](https://www.youtube.com/watch?v=yXH0OGScB2g)
-[![🔥 Big_O_Notation Explained in Bangla ⭕](https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=%F0%9F%94%A5%E2%80%8DBig_O_Notation+Explained+in+Bangla+%E2%97%95&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5 "🔥 Big_O_Notation Explained in Bangla ⭕")](https://www.youtube.com/watch?v=D8FPYT-GJtc)
-[![Problem 2: Inventory Management with Multiple Units](https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=300&border_radius=5 "Problem 2: Inventory Management with Multiple Units")](https://www.youtube.com/watch?v=eWx1vq7FJAA)
+[![🔥Fire typing effect on visual studio code 🔥🔥🔥](https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥Fire typing effect on visual studio code 🔥🔥🔥")](https://www.youtube.com/watch?v=GvHXALZtQo8)
+[![University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js](https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js")](https://www.youtube.com/watch?v=FW3_1evyZXs)
+[![🔥 ❤️‍🔥 Event Booking REST API Using Go](https://ytcards.demolab.com/?id=SbuLtsX0lAc&title=🔥+Event+Booking+REST+API+Using+Go&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥 ❤️‍🔥 Event Booking REST API Using Go")](https://www.youtube.com/watch?v=SbuLtsX0lAc)
+[![Problem 3: Message Processing with Retry Logic (Random ID Validation)](https://ytcards.demolab.com/?id=yXH0OGScB2g&title=Problem+3%3A+Message+Processing+with+Retry+Logic+%28Random+ID+Validation%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Problem 3: Message Processing with Retry Logic (Random ID Validation)")](https://www.youtube.com/watch?v=yXH0OGScB2g)
+[![🔥 Big_O_Notation Explained in Bangla ⭕](https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=🔥+Big_O_Notation+Explained+in+Bangla+⭕&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥 Big_O_Notation Explained in Bangla ⭕")](https://www.youtube.com/watch?v=D8FPYT-GJtc)
+[![Problem 2: Inventory Management with Multiple Units](https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Problem 2: Inventory Management with Multiple Units")](https://www.youtube.com/watch?v=eWx1vq7FJAA)
 <!-- END YOUTUBE-CARDS -->
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@bappasahabapii?sub_confirmation=1)
 
-#
 
 
 ## 📌 Pinned Repositories
