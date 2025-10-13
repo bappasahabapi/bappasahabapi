@@ -235,7 +235,7 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 ##  🪴 Live Projects
 
-`🐳 Enterprise Level `
+`🐳 Enterprise Level Client Project `
 
 [![Cliniva Sys](https://img.shields.io/badge/-Cliniva%20SYS-5672cd?style=flat)](https://testing.cliniva.online)
 [![WorkOwl Project Management](https://img.shields.io/badge/-WorkOwl-5672cd?style=flat)](https://app.workowl.io/)
