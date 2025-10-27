@@ -260,7 +260,14 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 
 ###   Client Task Work:
 
-- [![Referral-Credit-System](./dash.png)](https://drive.google.com/file/d/1RaspCfRXkYYgUb1OvzzkyJMUWHHl1Qc_/view?usp=sharing)
+<b> Referral-Credit-System Live Demov|  Company Work -> [Filesure.io](https://www.filesure.in/) </b> 👇
+[![Referral-Credit-System](./dash.png)](https://drive.google.com/file/d/1RaspCfRXkYYgUb1OvzzkyJMUWHHl1Qc_/view?usp=sharing)
+
+- Real Seo ERP | [dropndot](https://www.dropndot.com/) 👇
+[![Project Demo](./Client.png)](https://drive.google.com/file/d/1rnTSwXaMJVJT8x5Y8fyO9qTo88Tnt9rH/view?usp=sharing)
+
+- Sass Task Management System Prototype  |  [Doin Tech](https://doin.tech/) 👇
+[![Project Demo](./dashboard.png)](https://drive.google.com/file/d/1H4_-WgSx2j4cwH6Q0fN3DWlKb4dF84qh/view)
 
 
 ### 📺 Latest YouTube Videos
