@@ -258,9 +258,8 @@ Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশ�
 [![Smart Grade System](https://img.shields.io/badge/-⭐%20Smart%20Grade%20Systemt-5672cd?style=flat)](https://smart-grade-vercel-three.vercel.app/) [![Book Finder App](https://img.shields.io/badge/-⭐%20Book%20Finder%20App-5672cd?style=flat)](https://github.com/bappasahabapi/book-finder-app-vite)  [![Tic Tac Toe](https://img.shields.io/badge/-⭐%20Tic%20Tac%20Toe-5672cd?style=flat)](https://github.com/bappasahabapi/tic-tac-toy-2024) [![Task App](https://img.shields.io/badge/-⭐%20Task%20App%20%5BBEG%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)[![Task App (Mid-Level)](https://img.shields.io/badge/-🫒%20Task%20App%20%5BMID%20level%5D-5672cd?style=flat)](https://github.com/bappasahabapi/tasker)  
 
 
-###   Client Task Work: 
+### 🔥✨  Client Task Work: 
 
-Click the image to see the work
 
 | [Referral Credit System (Filesure.io)](https://drive.google.com/file/d/1RaspCfRXkYYgUb1OvzzkyJMUWHHl1Qc_/view?usp=sharing) | [Real Seo ERP (dropndot.com)](https://drive.google.com/file/d/1rnTSwXaMJVJT8x5Y8fyO9qTo88Tnt9rH/view?usp=sharing) | [SaaS Task Management (doin.tech)](https://drive.google.com/file/d/1H4_-WgSx2j4cwH6Q0fN3DWlKb4dF84qh/view) |
 |:--:|:--:|:--:|
