@@ -66,12 +66,13 @@ I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rm
 
 
 ### 🪴 My Tech! 
-- **Languages** - `C++`  `Go` `Javascript` `TypeScript` `SQL` 
+- **Languages** - `C` `C++` `Go` `Javascript` `TypeScript` `SQL` 
 - **Backend** - `Node.js` `Express.js` `Gin`
-- **Frontend** - `React js Nextjs`  `Redux`
+- **Frontend** - `React js Next.js`  `Redux`
+- **CSS** - `Tailwind` `Ant Design` `MUI` `Shade Cn`
 - **Database** - `PostgreSQL`  `MongoDB`
-- **Tools** - `Git` 
-- **Testing** - `Cypress` `Postman`
+- **Tools** - `Git` `CI/CD` `Agile`
+- **Testing** - `Cypress` `Postman` 'Jest'
 - **Infra** - `Docker` `Linux`
 - **Documentation** - `Swagger OAS` `Readme.md`
 
