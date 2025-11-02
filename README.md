@@ -45,10 +45,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-**Hello,**  
-I am **Bappa Saha**, currently working as a **Software Engineer** at [Blue Flower Media](https://www.blueflowermedia.com/). and ex-employee of  [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/). I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises. 
+**👋 Hey, I'm Bappa Saha,**  
 
-Additionally, I serve as an **ICT Instructor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) and **Content Creator** on [YouTube](https://youtu.be/FW3_1evyZXs?si=NVyvL141QgdWWR9e). I've completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech I'm also fairly invested in movies, reading, playing and traveling.
+🚀**Software Engineer (Backend-Focused)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
+
+- 🧩 Building robust systems and APIs that power real-world applications
+- 🏗️ Design and build backend systems & RESTful APIs
+- ⚙️ Work with Node.js, Express, Next.js, PostgreSQL
+
+---
+Previously, I worked at [Blue Flower Media](https://www.blueflowermedia.com/), where  I built scalable and maintainable web applications for Canadian-based clients. and ex-employee of  [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/), where I contributed to enterprise software solutions with a focus on performance, reliability, and client success. 
+
+I specialize in developing and maintaining software solutions, collaborating with cross-functional teams to deliver high-quality products for small and medium-sized enterprises. 
+
+Alongside engineering, I serve as a **Mentor** at [বন্দি পাঠশালা](https://www.bondipathshala.com.bd) and **create tech-focused content** on [YouTube](https://youtu.be/FW3_1evyZXs?si=NVyvL141QgdWWR9e), sharing what I learn with the community.
+
+I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech, I'm also fairly invested in movies, reading, playing, and traveling.
 
 > 💡 I'm open to new opportunities in the domain of frontend engineering, systems, and micro-services.
 
