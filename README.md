@@ -249,17 +249,6 @@ I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rm
 
 ##  🪴 Live Projects
 
-`🐳 Enterprise Level Client Project `
-
-
-[![WorkOwl Project Management](https://img.shields.io/badge/-WorkOwl-5672cd?style=flat)](https://app.workowl.io/)
-[![Cluster Addmission System](https://img.shields.io/badge/-Culster%20Addmission%20System-5672cd?style=flat)](https://acas.edu.bd/)
-[![Bondi Pathshala LMS](https://img.shields.io/badge/-Bondi%20Pathshala%20LMS-5672cd?style=flat)](https://www.bondipathshala.education/bn)
-[![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
-[![Cliniva Sys](https://img.shields.io/badge/-Cliniva%20SYS-5672cd?style=flat)](https://testing.cliniva.online)
-[![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
-
-
 [![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)🅿🆁🅾🅹🅴🅲🆃🆂
 
 `🐋 MID `
@@ -274,14 +263,25 @@ I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rm
 
 ### 🔥✨  Client Task Work: 
 
+`🐳 Enterprise Level Client Project ↴`
+
+
+ [![WorkOwl Project Management ↗](https://img.shields.io/badge/-WorkOwl%20↗-5672cd?style=flat)](https://app.workowl.io/)
+ [![Cluster Addmission System](https://img.shields.io/badge/-Culster%20Addmission%20System-5672cd?style=flat)](https://acas.edu.bd/)
+[![Bondi Pathshala LMS](https://img.shields.io/badge/-Bondi%20Pathshala%20LMS-5672cd?style=flat)](https://www.bondipathshala.education/bn)
+ [![Redux University Repository](https://img.shields.io/badge/-University%20Management-5672cd?style=flat)](https://github.com/bappasahabapi/Redux-University)
+  [![Cliniva Sys](https://img.shields.io/badge/-Cliniva%20SYS-5672cd?style=flat)](https://testing.cliniva.online)
+  [![Problem BD](https://img.shields.io/badge/-Problem%20BD-5672cd?style=flat)](https://problembd.vercel.app/)
+
+`🔥✨  Client Task Work ↴ `
 
 | [Referral Credit System (Filesure.io)](https://drive.google.com/file/d/1RaspCfRXkYYgUb1OvzzkyJMUWHHl1Qc_/view?usp=sharing) | [Real Seo ERP (dropndot.com)](https://drive.google.com/file/d/1rnTSwXaMJVJT8x5Y8fyO9qTo88Tnt9rH/view?usp=sharing) | [SaaS Task Management (doin.tech)](https://drive.google.com/file/d/1H4_-WgSx2j4cwH6Q0fN3DWlKb4dF84qh/view) |
 |:--:|:--:|:--:|
 | ![Referral Credit System](./dash.png) | ![Real Seo ERP](./Client.png) | ![SaaS Task Management](./dashboard.png) |
 
 
-
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@bappasahabapii?sub_confirmation=1)
+
 
 
 ---
