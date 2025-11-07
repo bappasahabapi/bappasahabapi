@@ -45,9 +45,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=20&width=300&lines=I+am+Bappa+Saha;I+am+a+Programmer;I+am+a+MERN+Stack+Developer;I+am+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
-**👋 Hey, I'm Bappa Saha,**  
+**🧤 Hey, I'm Bappa Saha,**  
 
-🚀**Software Engineer (Backend-Focused)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
+🔘 **Software Engineer (Backend-Focused)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
 
 - 🧩 Building robust systems and APIs that power real-world applications
 - 🏗️ Design and build backend systems & RESTful APIs
