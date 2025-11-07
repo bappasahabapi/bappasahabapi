@@ -281,51 +281,20 @@ I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rm
 
 
 
-### 📺 Latest YouTube Videos
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=GvHXALZtQo8">
-        <img src="https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="🔥Fire typing effect on visual studio code🔥🔥🔥" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=FW3_1evyZXs">
-        <img src="https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=SbuLtsX0lAc">
-        <img src="https://ytcards.demolab.com/?id=SbuLtsX0lAc&title=🔥+Event+Booking+REST+API+Using+Go&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="🔥 ❤️‍🔥 Event Booking REST API Using Go" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=yXH0OGScB2g">
-        <img src="https://ytcards.demolab.com/?id=yXH0OGScB2g&title=Problem+3%3A+Message+Processing+with+Retry+Logic+%28Random+ID+Validation%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5" alt="Problem 3: Message Processing with Retry Logic (Random ID Validation)" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=D8FPYT-GJtc">
-        <img src="https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=🔥+Big_O_Notation+Explained+in+Bangla+⭕&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="🔥 Big O Notation Explained in Bangla ⭕" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=eWx1vq7FJAA">
-        <img src="https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5" alt="Problem 2: Inventory Management with Multiple Units" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@bappasahabapii?sub_confirmation=1)
 
 
+---
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![🔥Fire typing effect on visual studio code 🔥🔥🔥](https://ytcards.demolab.com/?id=GvHXALZtQo8&title=%F0%9F%94%A5Fire+typing+effect+on+visual+studio+code&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥Fire typing effect on visual studio code 🔥🔥🔥")](https://www.youtube.com/watch?v=GvHXALZtQo8)
+[![University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js](https://ytcards.demolab.com/?id=FW3_1evyZXs&title=University+Management+Using+React+Redux+RTK+TS+Ant+Design+Node+Express&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "University Management Using React Redux RTK TypeScript Ant Design MongoDB Node.js Express.js")](https://www.youtube.com/watch?v=FW3_1evyZXs)
+[![🔥 ❤️‍🔥 Event Booking REST API Using Go](https://ytcards.demolab.com/?id=SbuLtsX0lAc&title=🔥+Event+Booking+REST+API+Using+Go&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥 ❤️‍🔥 Event Booking REST API Using Go")](https://www.youtube.com/watch?v=SbuLtsX0lAc)
+[![Problem 3: Message Processing with Retry Logic (Random ID Validation)](https://ytcards.demolab.com/?id=yXH0OGScB2g&title=Problem+3%3A+Message+Processing+with+Retry+Logic+%28Random+ID+Validation%29&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Problem 3: Message Processing with Retry Logic (Random ID Validation)")](https://www.youtube.com/watch?v=yXH0OGScB2g)
+[![🔥 Big_O_Notation Explained in Bangla ⭕](https://ytcards.demolab.com/?id=D8FPYT-GJtc&title=🔥+Big_O_Notation+Explained+in+Bangla+⭕&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5 "🔥 Big_O_Notation Explained in Bangla ⭕")](https://www.youtube.com/watch?v=D8FPYT-GJtc)
+[![Problem 2: Inventory Management with Multiple Units](https://ytcards.demolab.com/?id=eWx1vq7FJAA&title=Problem+2%3A+Inventory+Management+with+Multiple+Units&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=3&width=250&border_radius=5 "Problem 2: Inventory Management with Multiple Units")](https://www.youtube.com/watch?v=eWx1vq7FJAA)
+<!-- END YOUTUBE-CARDS -->
 
 ## 📌 Pinned Repositories
 
