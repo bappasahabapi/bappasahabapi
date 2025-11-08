@@ -13,7 +13,7 @@
 
 [📩 Email](bappasaha161@gmail.com) | [🌐 Portfolio](https://bappasahabapi.vercel.app/) | [✨Blog-Site](https://dev.to/bappasahabapi) | [👨🏻‍💼 Linkedin](https://www.linkedin.com/in/bappasaha/)
 
-**Software Engineer | Web Developer | Tech Enthusiast**
+**Software Engineer | Tech Enthusiast**
 
 <b>[👉 🔍 Search Projects From My Github with source code](https://github.com/bappasahabapi/Projects-Links)</b>
 
@@ -47,7 +47,7 @@
 
 **🧤 Hey, I'm Bappa Saha,**  
 
-🔘 **Software Engineer (Backend-Focused)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
+🔘 **Software Engineer (Backend)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
 
 - 🧩 Building robust systems and APIs that power real-world applications
 - 🏗️ Design and build backend systems & RESTful APIs
