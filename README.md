@@ -62,7 +62,7 @@ Alongside engineering, I serve as a **Mentor** at [বন্দি পাঠশ�
 
 I completed my undergrad on Computer Science & Engineering at [RMSTU](https://rmstu.ac.bd/). Besides tech, I'm also fairly invested in movies, reading, playing, and traveling.
 
-> 💡 I'm open to new opportunities in the domain of frontend engineering, systems, and micro-services.
+> 💡 I'm open to new opportunities in the domain of fullstack engineering, systems, and micro-services.
 
 
 ### 🪴 My Tech! 
