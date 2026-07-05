@@ -50,8 +50,16 @@
 🔘 **Software Engineer (Backend)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
 
 - 🧩 Building robust systems and APIs that power real-world applications
-- 🏗️ Design and build backend systems & RESTful APIs
-- ⚙️ Work with Node.js, Express, Next.js, PostgreSQL
+- 🏗️ Design and build backend systems & RESTful APIs with Node.js, Express, Next.js, PostgreSQL
+- ⚙️ Responsibility:
+    - AI-assisted code reviews, test generation, documentation, and CI/CD workflow automation
+    - Set up Cursor rules and implementation guidelines for new feature development and feature migration. 
+        - Define architecture design principles to ensure consistency and maintainability.
+        - Create a practical onboarding checklist for interns and new developers.
+        - Document coding standards, project structure, and development workflows.
+        
+Ensure new onboarding developers can easily understand the project architecture and quickly adapt to implementing new features without breaking the existing design or coding standards.
+
 
 ---
 Previously, I worked at [Blue Flower Media](https://www.blueflowermedia.com/), where  I built scalable and maintainable web applications for Canadian-based clients. and ex-employee of  [Spectrum Engineering Consortium (Pvt.) Ltd.](https://www.spectrum-bd.com/), where I contributed to enterprise software solutions with a focus on performance, reliability, and client success. 
