@@ -47,12 +47,15 @@
 
 **🧤 Hey, I'm Bappa Saha,**  
 
-🔘 **Software Engineer (Backend)** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
+🔘 **Software Engineer** at **[Dropndot ↗ ](https://www.dropndot.com/)** 
 
 - 🧩 Building robust systems and APIs that power real-world applications
 - 🏗️ Design and build backend systems & RESTful APIs with Node.js, Express, Next.js, PostgreSQL
-- ⚙️ Responsibility:
-    - AI-assisted code reviews, test generation, documentation, and CI/CD workflow automation
+- ⚙️ **Responsibility:**
+
+    - `AI-assisted code reviews`, `test generation`, documentation, and `CI/CD workflow automation.`
+    - Executed `feature migrations`, **established Cursor rules to reduce repetitive engineering tasks**
+    - **Debug tricky issues** across services,` performance optimization`, `lazy loading`, code splitting, `caching`, rendering, speed, and `memory leakages.`
     - Set up Cursor rules and implementation guidelines for new feature development and feature migration. 
         - Define architecture design principles to ensure consistency and maintainability.
         - Create a practical onboarding checklist for interns and new developers.
